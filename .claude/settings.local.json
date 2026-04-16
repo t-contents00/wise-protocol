@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(export MSYS=winsymlinks:nativestrict)",
+      "Bash(ln -s ~/taisun_agent/.claude ~/.claude)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(npm run:*)",
+      "Bash(taskkill /F /IM node.exe)",
+      "Bash(taskkill //F //IM node.exe)",
+      "Bash(python3 -c \"import openpyxl\")",
+      "Bash(pip3 install:*)",
+      "Bash(python -m pip install openpyxl)",
+      "Bash(py -m pip install openpyxl)",
+      "Bash(where python:*)",
+      "Bash(\"C:\\\\Users\\\\BLITZ90\\\\AppData\\\\Local\\\\Microsoft\\\\WindowsApps\\\\python.exe\" -m pip install openpyxl)",
+      "Bash(npm list:*)",
+      "Bash(npm install:*)",
+      "Read(//c/Users/BLITZ90/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/7e4aac7b-e6d6-4f8d-8957-43af96a06d11/568535f8-99b5-497e-ac67-e0672dad69fc/skills/pdf/**)",
+      "Bash(pip install:*)",
+      "Bash(python -m pip install reportlab)",
+      "Bash(node -e \"console.log\\(''node works''\\)\")",
+      "Bash(node scripts/generate-whitepaper-en.js)",
+      "Bash(node -e \":*)",
+      "Bash(node scripts/generate-docx.js)"
+    ]
+  }
+}

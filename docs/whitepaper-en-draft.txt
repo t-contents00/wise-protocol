@@ -1,0 +1,351 @@
+================================================================
+WISE COIN (WISE) — OFFICIAL WHITEPAPER
+Version 1.0 | April 2026
+wise-protocol.xyz
+================================================================
+
+[COVER PAGE]
+Title: WISE COIN (WISE)
+Subtitle: Official Whitepaper
+Tagline: Rank-Based Daily Dividend ERC-20 Token
+Version: v1.0
+Date: April 2026
+Website: wise-protocol.xyz
+Logo: WISE COIN logo (green gradient)
+Note to designer: Light/white background (#FAFAFA) with green accents (#4CAF7D). Clean, modern, tech-forward aesthetic.
+
+================================================================
+
+TABLE OF CONTENTS
+
+1. Executive Summary
+2. Introduction
+3. Token Overview
+4. Tokenomics
+5. Rank-Based Dividend System
+6. Exchange Listing
+7. Roadmap
+8. Use Cases
+9. Important Information
+10. Legal Disclaimer
+
+================================================================
+
+1. EXECUTIVE SUMMARY
+
+WISE COIN (WISE) is an ERC-20 utility token that rewards committed holders with higher returns through a unique rank-based dividend system.
+
+Unlike traditional flat-rate tokens, WISE COIN's dividend rate scales with your holdings — from 0.1% daily for entry-level holders to 0.5% daily for VIP-tier investors. This structure incentivizes long-term commitment and rewards conviction.
+
+Key Highlights:
+- Rank-based daily dividends from 0.1% to 0.5% (simple interest)
+- 5-tier rank system: Regular, Silver, Gold, Diamond, VIP
+- Total supply: 8,000,000,000 WISE
+- Sale price: ¥1 per token
+- Target listing price: ¥10 on bitcastle exchange
+- Scheduled listing: Late December 2027
+- Operated by webwise (webwise-sg.com), based in Singapore
+
+WISE COIN combines the security of Ethereum-based ERC-20 smart contracts with an innovative tier-based reward model. The more you hold, the more you earn — creating a transparent and meritocratic dividend structure that rewards long-term believers.
+
+With 40% of total supply dedicated to the dividend reserve, WISE COIN is structured for long-term sustainability and to deliver consistent rewards across all rank tiers.
+
+================================================================
+
+2. INTRODUCTION
+
+[IMAGE SUGGESTION: Abstract tech/network visualization with green tones. Clean, minimalist style. Shutterstock keyword: "abstract technology network green minimalist". Designer may choose alternative.]
+
+2.1 Market Context
+
+The cryptocurrency market has matured significantly over the past decade. According to CoinGecko, Bitcoin alone surpassed a market capitalization of $2 trillion in 2024, and the total crypto market continues to expand as adoption grows across DeFi, payments, and institutional investment.
+
+However, most tokens still rely on speculative price appreciation alone. Holders are exposed to high volatility without any predictable income stream. Even tokens that offer rewards typically apply a flat rate to all holders, providing no meaningful incentive for long-term commitment.
+
+2.2 The WISE COIN Solution
+
+WISE COIN introduces a tier-based reward system that fundamentally changes the relationship between holders and tokens. Instead of treating all holders equally, WISE COIN rewards conviction — the more tokens you hold, the higher your daily dividend rate.
+
+This creates a clear, transparent incentive structure:
+- Entry-level investors can start earning passive income at 0.1% daily
+- Committed holders can scale up to 0.5% daily by reaching the VIP tier
+- All ranks benefit from the security and liquidity of bitcastle listing
+
+By combining tier-based rewards with the reliability of ERC-20 smart contracts, WISE COIN offers a clear path from casual investor to long-term stakeholder.
+
+2.3 Project Vision
+
+WISE COIN was created to reward committed holders with higher returns. By combining a rank-based dividend model with ERC-20 smart contract security, WISE empowers investors to grow their earnings as they increase their holdings.
+
+The project is built on three pillars:
+- Rank Rewards — Hold more, earn more (up to 0.5% daily)
+- Exchange Liquidity — Scheduled listing on bitcastle for free trading
+- On-Chain Security — ERC-20 verified smart contract on Ethereum
+
+================================================================
+
+3. TOKEN OVERVIEW
+
+Token Specifications:
+
+| Property              | Value                       |
+|-----------------------|----------------------------|
+| Name                  | WISE COIN                   |
+| Symbol                | WISE                        |
+| Standard              | ERC-20                      |
+| Blockchain            | Ethereum                    |
+| Total Supply          | 8,000,000,000               |
+| Sale Price            | ¥1 per token                |
+| Target Listing Price  | ¥10 per token               |
+| Daily Dividend Rate   | 0.1%–0.5% (Rank-Based)      |
+| Exchange              | bitcastle                   |
+| Expected Listing      | Late December 2027          |
+| Operator              | webwise (webwise-sg.com)    |
+
+3.1 ERC-20 Standard
+
+WISE is built on the Ethereum blockchain as an ERC-20 token, ensuring compatibility with major wallets (MetaMask, Trust Wallet, etc.), exchanges, and decentralized applications. The ERC-20 standard provides a proven, battle-tested framework for token operations.
+
+3.2 Smart Contract
+
+The smart contract address will be published on the official website and verified on Etherscan prior to the bitcastle listing, ensuring full transparency and on-chain verifiability. This allows any holder to independently verify the token contract and its operations.
+
+================================================================
+
+4. TOKENOMICS
+
+Total Supply: 8,000,000,000 WISE
+
+[CHART: Please create a pie chart or horizontal bar chart with the allocation below. Use the brand color scheme. This is a key visual.]
+
+Allocation Breakdown:
+
+| Category              | Tokens          | Percentage |
+|-----------------------|-----------------|------------|
+| Dividend Reserve      | 3,200,000,000   | 40.0%      |
+| Public Sale           | 2,400,000,000   | 30.0%      |
+| Development & Ops     | 1,440,000,000   | 18.0%      |
+| Ecosystem             | 960,000,000     | 12.0%      |
+
+Color scheme for chart:
+- Dividend Reserve: #4CAF7D (Green)
+- Public Sale: #6366F1 (Indigo)
+- Development & Ops: #F59E0B (Amber)
+- Ecosystem: #06B6D4 (Cyan)
+
+4.1 Dividend Reserve — 40% (3,200,000,000 tokens)
+
+The largest allocation is dedicated to funding the rank-based dividend program. This 40% reserve — larger than typical token projects — ensures long-term sustainability of higher-tier rewards (up to 0.5% daily for VIP holders) and demonstrates webwise's commitment to delivering consistent payments.
+
+4.2 Public Sale — 30% (2,400,000,000 tokens)
+
+Tokens available for purchase at ¥1 per token. The public sale provides broad access to WISE for individual investors worldwide and forms the foundation for the rank-based ecosystem.
+
+4.3 Development & Operations — 18% (1,440,000,000 tokens)
+
+Allocated for ongoing development, infrastructure, operational costs, marketing, and team incentives. This fund supports the long-term growth and maintenance of the WISE COIN ecosystem.
+
+4.4 Ecosystem — 12% (960,000,000 tokens)
+
+Reserved for partnerships, ecosystem expansion, community initiatives, and strategic reserves. This allocation provides flexibility for future growth opportunities.
+
+================================================================
+
+5. RANK-BASED DIVIDEND SYSTEM
+
+[IMAGE SUGGESTION: Tier/rank visualization or growing bars. Green tones. Shutterstock keyword: "tier ranking growth chart". Designer's choice.]
+
+5.1 Overview
+
+WISE COIN's core innovation is its rank-based dividend system. Rather than applying a flat rate to all holders, WISE rewards conviction — holders who commit more tokens receive higher daily dividend rates.
+
+5.2 Rank Tiers
+
+| Rank      | Required Holdings        | Daily Rate | Annual Equivalent |
+|-----------|--------------------------|------------|-------------------|
+| Regular   | 0 – 9,999,999            | 0.1%       | ~36.5%            |
+| Silver    | 10,000,000 – 19,999,999  | 0.2%       | ~73%              |
+| Gold      | 20,000,000 – 29,999,999  | 0.3%       | ~109.5%           |
+| Diamond   | 30,000,000 – 39,999,999  | 0.4%       | ~146%             |
+| VIP       | 40,000,000+              | 0.5%       | ~182.5%           |
+
+5.3 Calculation Method
+
+Formula:
+Holdings × Rank Rate = Daily Dividend (WISE)
+
+Each holder's daily dividend is calculated using simple interest based on their current rank. Holders automatically benefit from rank upgrades as they accumulate more tokens.
+
+5.4 Scenario Simulations
+
+[Note to designer: Please format as a clean comparison table]
+
+|                       | 5M WISE     | 15M WISE     | 25M WISE     | 35M WISE     | 50M WISE      |
+|-----------------------|-------------|--------------|--------------|--------------|---------------|
+| Rank                  | Regular     | Silver       | Gold         | Diamond      | VIP           |
+| Daily Rate            | 0.1%        | 0.2%         | 0.3%         | 0.4%         | 0.5%          |
+| Daily Dividend        | 5,000       | 30,000       | 75,000       | 140,000      | 250,000       |
+| 30-Day Total          | 150,000     | 900,000      | 2,250,000    | 4,200,000    | 7,500,000     |
+| 90-Day Total          | 450,000     | 2,700,000    | 6,750,000    | 12,600,000   | 22,500,000    |
+| 180-Day Total         | 900,000     | 5,400,000    | 13,500,000   | 25,200,000   | 45,000,000    |
+| Listing Value (¥10)   | 50,000,000  | 150,000,000  | 250,000,000  | 350,000,000  | 500,000,000   |
+
+All values shown in WISE tokens. The listing value assumes the target price and is not guaranteed.
+
+5.5 Payment Schedule
+
+Dividend payment schedules will be announced as the project progresses. Rates are calculated on a daily basis using simple interest according to each holder's rank tier.
+
+5.6 Distribution Method
+
+Dividend distribution methods will be confirmed prior to the system launch. Updates will be published on the official website at wise-protocol.xyz.
+
+5.7 Important Notes
+
+- The rank-based rates are the current planned rates
+- All investments carry risk and rates may be subject to change
+- Values shown are projections and not guaranteed
+- The ¥10 listing price is a target value and is not guaranteed
+
+================================================================
+
+6. EXCHANGE LISTING
+
+[IMAGE SUGGESTION: Crypto exchange dashboard or trading interface. Shutterstock keyword: "cryptocurrency exchange trading interface clean". Or use bitcastle logo.]
+
+6.1 bitcastle Overview
+
+bitcastle is a global cryptocurrency exchange founded in 2022, serving over 1,000,000 users across 100+ countries. WISE COIN is scheduled for listing on bitcastle, after which WISE can be freely traded by anyone.
+
+6.2 Listing Schedule
+
+WISE is scheduled for listing on bitcastle in late December 2027. The exact date will be announced on the official website.
+
+6.3 Benefits of Exchange Listing
+
+- Liquidity Assured — Trade anytime after listing with market-driven pricing
+- Price Transparency — Open market determines fair value
+- Exchange Security — Protected by bitcastle's exchange infrastructure
+
+6.4 Post-Listing Trading
+
+After listing on bitcastle, holders can freely buy and sell WISE tokens through the exchange platform. A bitcastle account will be required to trade.
+
+6.5 Relationship Between webwise and bitcastle
+
+webwise is the operator and issuer of WISE COIN. bitcastle is the exchange where WISE will be listed for public trading. They are separate entities collaborating on the listing process.
+
+================================================================
+
+7. ROADMAP
+
+[GRAPHIC: Please design a visual timeline/roadmap with 4 phases. Phase 1 highlighted as "Current". Designer's discretion on style.]
+
+Phase 1: Foundation (Current)
+- Token Sale Launch
+- Official Site Live
+
+Phase 2: Growth
+- Dividend System Live
+- Holder Benefits Program
+- Holder Reports
+
+Phase 3: Expansion
+- bitcastle Listing Application
+- Marketing Push
+- Liquidity Preparation
+
+Phase 4: Listing
+- Official bitcastle Listing
+- Target ¥10/WISE
+- Next Phase Announcement
+
+================================================================
+
+8. USE CASES
+
+[IMAGE SUGGESTION: Person managing digital portfolio on laptop or tablet. Modern/professional. Shutterstock keyword: "professional managing crypto portfolio laptop". Designer's choice.]
+
+8.1 Tier-Based Passive Income
+
+WISE holders earn daily dividends automatically based on their rank tier. The more tokens you hold, the higher your rate — from 0.1% (Regular) up to 0.5% (VIP). This creates a unique incentive to commit long-term and unlock higher rewards.
+
+8.2 Strategic Accumulation
+
+The rank system rewards strategic accumulation. Holders can plan their token acquisitions to reach specific tier thresholds — for example, purchasing additional WISE to upgrade from Silver (0.2%) to Gold (0.3%) increases dividend earnings significantly from that point forward.
+
+8.3 Exchange Trading
+
+After listing on bitcastle, WISE tokens can be freely traded against other cryptocurrencies. Holders can take advantage of price movements while continuing to earn rank-based dividends on their remaining holdings.
+
+8.4 Portfolio Diversification
+
+As an ERC-20 token with a built-in tiered reward mechanism, WISE offers a differentiated asset class within a crypto portfolio — providing predictable income generation alongside the growth potential typical of digital assets.
+
+================================================================
+
+9. IMPORTANT INFORMATION
+
+To help you participate with confidence, please review the following points.
+
+9.1 Market Conditions
+
+Cryptocurrency prices fluctuate based on market supply and demand. The value of WISE tokens is also subject to these dynamics, and the ¥10 target listing price reflects current projections that may change with market conditions. We recommend participating with funds you can comfortably allocate.
+
+9.2 Regulatory Environment
+
+Cryptocurrency regulations differ across jurisdictions. We encourage you to review the regulations applicable in your region before participating. The project is committed to operating in compliance with applicable laws.
+
+9.3 Technology
+
+WISE uses the ERC-20 standard — the most widely adopted token standard in the industry. The Ethereum blockchain serves as the world's largest smart contract platform with a proven track record of reliability. Please note that network congestion may occasionally result in higher gas fees.
+
+9.4 Liquidity
+
+Once listed on bitcastle, WISE will be freely tradable on the exchange. During the pre-listing period, trading opportunities are limited; however, dividend earnings continue throughout this period based on each holder's rank.
+
+9.5 Operations
+
+WISE COIN is operated by webwise with full accountability. webwise manages all aspects of the project — token distribution, dividend payments, and the listing process — ensuring consistent and reliable operations.
+
+================================================================
+
+10. LEGAL DISCLAIMER
+
+WISE COIN (WISE) is a utility token issued under the ERC-20 standard. It is not classified as a security under applicable securities laws, including but not limited to the Financial Instruments and Exchange Act of Japan.
+
+Participation in this service does not guarantee the return of principal. Investing in cryptocurrency involves significant risk. All investment decisions are made at your own discretion and risk.
+
+================================================================
+
+(c) 2026 webwise. All Rights Reserved.
+
+================================================================
+DESIGN NOTES FOR DESIGNER:
+
+Theme: Light/clean (#FAFAFA background, #4CAF7D green accents, dark text)
+Font suggestion: Display — Plus Jakarta Sans / Body — Inter
+Brand colors:
+  - Primary Green: #4CAF7D
+  - Light Green: #5EBD8A
+  - Dark Green: #3D9B6B
+  - Background: #FAFAFA
+  - Surface: #FFFFFF
+  - Text Primary: #1A1A2E
+  - Text Secondary: #64748B
+
+Accent colors (for charts/sections):
+  - Indigo: #6366F1
+  - Amber: #F59E0B
+  - Cyan: #06B6D4
+
+Assets needed:
+  - WISE logo (available at: public/images/wise-logo.png)
+  - webwise logo (available at: public/images/webwise-logo.png)
+  - bitcastle logo (available at: public/images/bitcastle-logo.png)
+  - Team photos (pending — being prepared by designer)
+
+Deliverables:
+  - A4 size PDF, 20-25 pages
+  - Matching Japanese version (separate file, same design)
+================================================================
