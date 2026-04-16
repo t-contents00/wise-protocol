@@ -22,13 +22,13 @@ export default function Footer({ dict }: FooterProps) {
             <div className="flex items-center gap-3">
               <Image
                 src="/images/wise-logo.png"
-                alt="Wise Coin"
+                alt="WiseCoin"
                 width={32}
                 height={32}
                 className="rounded-full"
               />
               <span className="font-display text-lg font-semibold text-gray-900">
-                Wise Coin
+                WiseCoin
               </span>
             </div>
             <p className="text-gray-400 text-xs mt-2">{t.tagline}</p>

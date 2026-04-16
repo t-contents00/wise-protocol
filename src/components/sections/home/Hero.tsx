@@ -31,7 +31,7 @@ export default function Hero() {
             <div className="flex items-center gap-2 mb-6">
               <Image
                 src="/images/wise-logo.png"
-                alt="Wise Coin"
+                alt="WiseCoin"
                 width={40}
                 height={40}
                 className="rounded-full"

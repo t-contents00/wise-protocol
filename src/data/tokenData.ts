@@ -1,5 +1,5 @@
 export const TOKEN = {
-  name: "Wise Coin",
+  name: "WiseCoin",
   symbol: "WISE",
   standard: "ERC-20",
   totalSupply: 8_000_000_000,

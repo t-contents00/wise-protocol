@@ -5,19 +5,19 @@ export const FAQ_EN: FAQCategory[] = [
     name: "General",
     items: [
       {
-        question: "What is Wise Coin?",
+        question: "What is WiseCoin?",
         answer:
-          "Wise Coin (WISE) is an ERC-20 token that provides holders with rank-based daily dividends from 0.1% to 0.5% depending on holdings. It is operated by webwise and scheduled for listing on bitcastle exchange.",
+          "WiseCoin (WISE) is an ERC-20 token that provides holders with rank-based daily dividends from 0.1% to 0.5% depending on holdings. It is operated by webwise and scheduled for listing on bitcastle exchange.",
       },
       {
-        question: "Who operates Wise Coin?",
+        question: "Who operates WiseCoin?",
         answer:
-          "Wise Coin is issued and operated by webwise (webwise-sg.com), a company that manages the token distribution, dividend payments, and exchange listing process.",
+          "WiseCoin is issued and operated by webwise (webwise-sg.com), a company that manages the token distribution, dividend payments, and exchange listing process.",
       },
       {
-        question: "Is Wise Coin a registered security?",
+        question: "Is WiseCoin a registered security?",
         answer:
-          "Wise Coin is a utility token issued under the ERC-20 standard and is not classified as a security under applicable securities laws. Please consult your local regulations.",
+          "WiseCoin is a utility token issued under the ERC-20 standard and is not classified as a security under applicable securities laws. Please consult your local regulations.",
       },
       {
         question: "What blockchain is WISE built on?",
@@ -67,7 +67,7 @@ export const FAQ_EN: FAQCategory[] = [
       {
         question: "When will WISE list on bitcastle?",
         answer:
-          "WISE is scheduled for listing on bitcastle in late December 2027. The exact date will be announced on the official website.",
+          "WISE is scheduled for listing on bitcastle in late December 2026. The exact date will be announced on the official website.",
       },
       {
         question: "What is the target listing price?",
@@ -87,7 +87,7 @@ export const FAQ_EN: FAQCategory[] = [
       {
         question: "What is the relationship between webwise and bitcastle?",
         answer:
-          "webwise is the operator and issuer of Wise Coin. bitcastle is the exchange where WISE will be listed for public trading. They are separate entities collaborating on the listing.",
+          "webwise is the operator and issuer of WiseCoin. bitcastle is the exchange where WISE will be listed for public trading. They are separate entities collaborating on the listing.",
       },
     ],
   },

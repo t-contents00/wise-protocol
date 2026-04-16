@@ -5,19 +5,19 @@ export const FAQ_JA: FAQCategory[] = [
     name: "一般",
     items: [
       {
-        question: "Wise Coinとは何ですか？",
+        question: "WiseCoinとは何ですか？",
         answer:
-          "Wise Coin（WISE）はERC-20トークンで、保有量に応じて毎日0.1%〜0.5%のランク別配当を提供します。webwiseが運営し、bitcastle取引所への上場が予定されています。",
+          "WiseCoin（WISE）はERC-20トークンで、保有量に応じて毎日0.1%〜0.5%のランク別配当を提供します。webwiseが運営し、bitcastle取引所への上場が予定されています。",
       },
       {
-        question: "Wise Coinの運営者は誰ですか？",
+        question: "WiseCoinの運営者は誰ですか？",
         answer:
-          "Wise Coinはwebwise（webwise-sg.com）が発行・運営しており、トークン配布、配当支払い、取引所上場プロセスを管理しています。",
+          "WiseCoinはwebwise（webwise-sg.com）が発行・運営しており、トークン配布、配当支払い、取引所上場プロセスを管理しています。",
       },
       {
-        question: "Wise Coinは有価証券ですか？",
+        question: "WiseCoinは有価証券ですか？",
         answer:
-          "Wise CoinはERC-20規格で発行されたユーティリティトークンであり、金融商品取引法上の有価証券には該当しません。お住まいの地域の規制をご確認ください。",
+          "WiseCoinはERC-20規格で発行されたユーティリティトークンであり、金融商品取引法上の有価証券には該当しません。お住まいの地域の規制をご確認ください。",
       },
       {
         question: "WISEはどのブロックチェーン上に構築されていますか？",
@@ -67,7 +67,7 @@ export const FAQ_JA: FAQCategory[] = [
       {
         question: "WISEはいつbitcastleに上場しますか？",
         answer:
-          "WISEは2027年12月下旬にbitcastleへの上場が予定されています。正確な日程は公式サイトで発表されます。",
+          "WISEは2026年12月下旬にbitcastleへの上場が予定されています。正確な日程は公式サイトで発表されます。",
       },
       {
         question: "上場目標価格はいくらですか？",
@@ -87,7 +87,7 @@ export const FAQ_JA: FAQCategory[] = [
       {
         question: "webwiseとbitcastleの関係は？",
         answer:
-          "webwiseはWise Coinの運営者・発行者です。bitcastleはWISEが上場される取引所です。両社は上場に向けて協力する別個の事業体です。",
+          "webwiseはWiseCoinの運営者・発行者です。bitcastleはWISEが上場される取引所です。両社は上場に向けて協力する別個の事業体です。",
       },
     ],
   },

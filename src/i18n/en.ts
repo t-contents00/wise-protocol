@@ -11,7 +11,7 @@ const en = {
     headline: "Smart Holding.",
     headlineHighlight: "Smarter Returns.",
     description:
-      "Wise Coin offers rank-based daily dividends from 0.1% to 0.5% based on your holdings.\nPurchase at ¥1 per token — target listing price ¥10 on bitcastle.",
+      "WiseCoin offers rank-based daily dividends from 0.1% to 0.5% based on your holdings.\nPurchase at ¥1 per token — target listing price ¥10 on bitcastle.",
     ctaPrimary: "Try the Simulator",
   },
   countdown: {
@@ -20,7 +20,7 @@ const en = {
     hours: "HOURS",
     minutes: "MINUTES",
     seconds: "SECONDS",
-    expected: "Expected: Late December 2027",
+    expected: "Expected: Late December 2026",
   },
   stats: {
     dailyYield: "Daily Yield (Rank-Based)",
@@ -45,7 +45,7 @@ const en = {
   },
   features: {
     label: "✦ Features",
-    title: "Why Wise Coin?",
+    title: "Why WiseCoin?",
     items: [
       {
         icon: "🏆",
@@ -108,7 +108,7 @@ const en = {
   },
   bitcastle: {
     description:
-      "bitcastle is a global cryptocurrency exchange founded in 2022, serving over 1,000,000 users across 100+ countries. Wise Coin is scheduled for listing on bitcastle, after which WISE can be freely traded by anyone.",
+      "bitcastle is a global cryptocurrency exchange founded in 2022, serving over 1,000,000 users across 100+ countries. WiseCoin is scheduled for listing on bitcastle, after which WISE can be freely traded by anyone.",
     benefits: [
       {
         title: "Liquidity Assured",
@@ -129,7 +129,7 @@ const en = {
     label: "✦ Operator",
     title: "About webwise",
     description:
-      "webwise is the operator and issuer of Wise Coin, managing token distribution, dividend payments, and the exchange listing process on bitcastle.",
+      "webwise is the operator and issuer of WiseCoin, managing token distribution, dividend payments, and the exchange listing process on bitcastle.",
     cta: "Visit webwise-sg.com →",
   },
   faqSection: {
@@ -152,13 +152,13 @@ const en = {
     tagline: "Rank-Based Daily Dividend ERC-20 Token",
     copyright: "© 2026 webwise. All Rights Reserved.",
     disclaimerText:
-      "Participation in this service does not guarantee the return of principal. Investing in cryptocurrency involves significant risk. All investment decisions are made at your own discretion and risk. Listing price and dividend performance do not guarantee future results. Wise Coin is a utility token issued by webwise and is not classified as a security under applicable securities laws.",
+      "Participation in this service does not guarantee the return of principal. Investing in cryptocurrency involves significant risk. All investment decisions are made at your own discretion and risk. Listing price and dividend performance do not guarantee future results. WiseCoin is a utility token issued by webwise and is not classified as a security under applicable securities laws.",
   },
   aboutPage: {
-    hero: "About Wise Coin",
+    hero: "About WiseCoin",
     vision: "Project Vision",
     visionText:
-      "Wise Coin was created to reward committed holders with higher returns. By combining a rank-based dividend model with ERC-20 smart contract security, WISE empowers investors to grow their earnings as they increase their holdings.",
+      "WiseCoin was created to reward committed holders with higher returns. By combining a rank-based dividend model with ERC-20 smart contract security, WISE empowers investors to grow their earnings as they increase their holdings.",
     coreValues: "Core Values",
     values: [
       {

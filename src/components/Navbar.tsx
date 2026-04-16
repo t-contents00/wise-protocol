@@ -52,7 +52,7 @@ export default function Navbar({ locale, dict }: NavbarProps) {
           <Link href={`/${locale}`} className="flex items-center gap-2.5 shrink-0">
             <Image
               src="/images/wise-logo.png"
-              alt="Wise Coin"
+              alt="WiseCoin"
               width={32}
               height={32}
               className="rounded-full"

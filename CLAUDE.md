@@ -1,10 +1,10 @@
-# WISE COIN (WISE)
+# WiseCoin (WISE)
 
 ## プロジェクト概要
-- WISE COIN (ERC-20トークン) の公式サイト
+- WiseCoin (ERC-20トークン) の公式サイト
 - wise-protocol.xyz で公開予定
 - 運営者: webwise (webwise-sg.com)
-- 上場予定: bitcastle / 2027年12月下旬
+- 上場予定: bitcastle / 2026年12月下旬
 
 ## 技術スタック
 - Next.js 14 (App Router) + TypeScript + Tailwind CSS

@@ -27,7 +27,7 @@ export default function Contact() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           access_key: process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "",
-          subject: `[Wise Coin] New inquiry from ${form.name}`,
+          subject: `[WiseCoin] New inquiry from ${form.name}`,
           from_name: form.name,
           email: form.email,
           amount: form.amount || "Not specified",

@@ -31,7 +31,7 @@ function getTimeLeft(target: Date): TimeLeft {
 export default function Countdown({ compact = false }: CountdownProps) {
   const { dict } = useDict();
   const targetDate = new Date(
-    process.env.NEXT_PUBLIC_LISTING_DATE || "2027-12-31T00:00:00+09:00"
+    process.env.NEXT_PUBLIC_LISTING_DATE || "2026-12-31T00:00:00+09:00"
   );
 
   const [timeLeft, setTimeLeft] = useState<TimeLeft>({

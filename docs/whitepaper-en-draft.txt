@@ -1,17 +1,17 @@
 ================================================================
-WISE COIN (WISE) — OFFICIAL WHITEPAPER
+WiseCoin (WISE) — OFFICIAL WHITEPAPER
 Version 1.0 | April 2026
 wise-protocol.xyz
 ================================================================
 
 [COVER PAGE]
-Title: WISE COIN (WISE)
+Title: WiseCoin (WISE)
 Subtitle: Official Whitepaper
 Tagline: Rank-Based Daily Dividend ERC-20 Token
 Version: v1.0
 Date: April 2026
 Website: wise-protocol.xyz
-Logo: WISE COIN logo (green gradient)
+Logo: WiseCoin logo (green gradient)
 Note to designer: Light/white background (#FAFAFA) with green accents (#4CAF7D). Clean, modern, tech-forward aesthetic.
 
 ================================================================
@@ -33,9 +33,9 @@ TABLE OF CONTENTS
 
 1. EXECUTIVE SUMMARY
 
-WISE COIN (WISE) is an ERC-20 utility token that rewards committed holders with higher returns through a unique rank-based dividend system.
+WiseCoin (WISE) is an ERC-20 utility token that rewards committed holders with higher returns through a unique rank-based dividend system.
 
-Unlike traditional flat-rate tokens, WISE COIN's dividend rate scales with your holdings — from 0.1% daily for entry-level holders to 0.5% daily for VIP-tier investors. This structure incentivizes long-term commitment and rewards conviction.
+Unlike traditional flat-rate tokens, WiseCoin's dividend rate scales with your holdings — from 0.1% daily for entry-level holders to 0.5% daily for VIP-tier investors. This structure incentivizes long-term commitment and rewards conviction.
 
 Key Highlights:
 - Rank-based daily dividends from 0.1% to 0.5% (simple interest)
@@ -43,12 +43,12 @@ Key Highlights:
 - Total supply: 8,000,000,000 WISE
 - Sale price: ¥1 per token
 - Target listing price: ¥10 on bitcastle exchange
-- Scheduled listing: Late December 2027
+- Scheduled listing: Late December 2026
 - Operated by webwise (webwise-sg.com), based in Singapore
 
-WISE COIN combines the security of Ethereum-based ERC-20 smart contracts with an innovative tier-based reward model. The more you hold, the more you earn — creating a transparent and meritocratic dividend structure that rewards long-term believers.
+WiseCoin combines the security of Ethereum-based ERC-20 smart contracts with an innovative tier-based reward model. The more you hold, the more you earn — creating a transparent and meritocratic dividend structure that rewards long-term believers.
 
-With 40% of total supply dedicated to the dividend reserve, WISE COIN is structured for long-term sustainability and to deliver consistent rewards across all rank tiers.
+With 40% of total supply dedicated to the dividend reserve, WiseCoin is structured for long-term sustainability and to deliver consistent rewards across all rank tiers.
 
 ================================================================
 
@@ -62,20 +62,20 @@ The cryptocurrency market has matured significantly over the past decade. Accord
 
 However, most tokens still rely on speculative price appreciation alone. Holders are exposed to high volatility without any predictable income stream. Even tokens that offer rewards typically apply a flat rate to all holders, providing no meaningful incentive for long-term commitment.
 
-2.2 The WISE COIN Solution
+2.2 The WiseCoin Solution
 
-WISE COIN introduces a tier-based reward system that fundamentally changes the relationship between holders and tokens. Instead of treating all holders equally, WISE COIN rewards conviction — the more tokens you hold, the higher your daily dividend rate.
+WiseCoin introduces a tier-based reward system that fundamentally changes the relationship between holders and tokens. Instead of treating all holders equally, WiseCoin rewards conviction — the more tokens you hold, the higher your daily dividend rate.
 
 This creates a clear, transparent incentive structure:
 - Entry-level investors can start earning passive income at 0.1% daily
 - Committed holders can scale up to 0.5% daily by reaching the VIP tier
 - All ranks benefit from the security and liquidity of bitcastle listing
 
-By combining tier-based rewards with the reliability of ERC-20 smart contracts, WISE COIN offers a clear path from casual investor to long-term stakeholder.
+By combining tier-based rewards with the reliability of ERC-20 smart contracts, WiseCoin offers a clear path from casual investor to long-term stakeholder.
 
 2.3 Project Vision
 
-WISE COIN was created to reward committed holders with higher returns. By combining a rank-based dividend model with ERC-20 smart contract security, WISE empowers investors to grow their earnings as they increase their holdings.
+WiseCoin was created to reward committed holders with higher returns. By combining a rank-based dividend model with ERC-20 smart contract security, WISE empowers investors to grow their earnings as they increase their holdings.
 
 The project is built on three pillars:
 - Rank Rewards — Hold more, earn more (up to 0.5% daily)
@@ -90,7 +90,7 @@ Token Specifications:
 
 | Property              | Value                       |
 |-----------------------|----------------------------|
-| Name                  | WISE COIN                   |
+| Name                  | WiseCoin                   |
 | Symbol                | WISE                        |
 | Standard              | ERC-20                      |
 | Blockchain            | Ethereum                    |
@@ -99,7 +99,7 @@ Token Specifications:
 | Target Listing Price  | ¥10 per token               |
 | Daily Dividend Rate   | 0.1%–0.5% (Rank-Based)      |
 | Exchange              | bitcastle                   |
-| Expected Listing      | Late December 2027          |
+| Expected Listing      | Late December 2026          |
 | Operator              | webwise (webwise-sg.com)    |
 
 3.1 ERC-20 Standard
@@ -143,7 +143,7 @@ Tokens available for purchase at ¥1 per token. The public sale provides broad a
 
 4.3 Development & Operations — 18% (1,440,000,000 tokens)
 
-Allocated for ongoing development, infrastructure, operational costs, marketing, and team incentives. This fund supports the long-term growth and maintenance of the WISE COIN ecosystem.
+Allocated for ongoing development, infrastructure, operational costs, marketing, and team incentives. This fund supports the long-term growth and maintenance of the WiseCoin ecosystem.
 
 4.4 Ecosystem — 12% (960,000,000 tokens)
 
@@ -157,7 +157,7 @@ Reserved for partnerships, ecosystem expansion, community initiatives, and strat
 
 5.1 Overview
 
-WISE COIN's core innovation is its rank-based dividend system. Rather than applying a flat rate to all holders, WISE rewards conviction — holders who commit more tokens receive higher daily dividend rates.
+WiseCoin's core innovation is its rank-based dividend system. Rather than applying a flat rate to all holders, WISE rewards conviction — holders who commit more tokens receive higher daily dividend rates.
 
 5.2 Rank Tiers
 
@@ -215,11 +215,11 @@ Dividend distribution methods will be confirmed prior to the system launch. Upda
 
 6.1 bitcastle Overview
 
-bitcastle is a global cryptocurrency exchange founded in 2022, serving over 1,000,000 users across 100+ countries. WISE COIN is scheduled for listing on bitcastle, after which WISE can be freely traded by anyone.
+bitcastle is a global cryptocurrency exchange founded in 2022, serving over 1,000,000 users across 100+ countries. WiseCoin is scheduled for listing on bitcastle, after which WISE can be freely traded by anyone.
 
 6.2 Listing Schedule
 
-WISE is scheduled for listing on bitcastle in late December 2027. The exact date will be announced on the official website.
+WISE is scheduled for listing on bitcastle in late December 2026. The exact date will be announced on the official website.
 
 6.3 Benefits of Exchange Listing
 
@@ -233,7 +233,7 @@ After listing on bitcastle, holders can freely buy and sell WISE tokens through 
 
 6.5 Relationship Between webwise and bitcastle
 
-webwise is the operator and issuer of WISE COIN. bitcastle is the exchange where WISE will be listed for public trading. They are separate entities collaborating on the listing process.
+webwise is the operator and issuer of WiseCoin. bitcastle is the exchange where WISE will be listed for public trading. They are separate entities collaborating on the listing process.
 
 ================================================================
 
@@ -306,13 +306,13 @@ Once listed on bitcastle, WISE will be freely tradable on the exchange. During t
 
 9.5 Operations
 
-WISE COIN is operated by webwise with full accountability. webwise manages all aspects of the project — token distribution, dividend payments, and the listing process — ensuring consistent and reliable operations.
+WiseCoin is operated by webwise with full accountability. webwise manages all aspects of the project — token distribution, dividend payments, and the listing process — ensuring consistent and reliable operations.
 
 ================================================================
 
 10. LEGAL DISCLAIMER
 
-WISE COIN (WISE) is a utility token issued under the ERC-20 standard. It is not classified as a security under applicable securities laws, including but not limited to the Financial Instruments and Exchange Act of Japan.
+WiseCoin (WISE) is a utility token issued under the ERC-20 standard. It is not classified as a security under applicable securities laws, including but not limited to the Financial Instruments and Exchange Act of Japan.
 
 Participation in this service does not guarantee the return of principal. Investing in cryptocurrency involves significant risk. All investment decisions are made at your own discretion and risk.
 

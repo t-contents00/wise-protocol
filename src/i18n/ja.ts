@@ -13,7 +13,7 @@ const ja: Dictionary = {
     headline: "Smart Holding.",
     headlineHighlight: "賢く、増やす。",
     description:
-      "Wise Coinは保有量に応じて毎日0.1%〜0.5%の配当を受け取れます。\n¥1で購入 — bitcastleでの上場目標価格は¥10。",
+      "WiseCoinは保有量に応じて毎日0.1%〜0.5%の配当を受け取れます。\n¥1で購入 — bitcastleでの上場目標価格は¥10。",
     ctaPrimary: "シミュレーターを試す",
   },
   countdown: {
@@ -22,7 +22,7 @@ const ja: Dictionary = {
     hours: "時間",
     minutes: "分",
     seconds: "秒",
-    expected: "予定：2027年12月下旬",
+    expected: "予定：2026年12月下旬",
   },
   stats: {
     dailyYield: "日利（ランク制）",
@@ -47,7 +47,7 @@ const ja: Dictionary = {
   },
   features: {
     label: "✦ 特徴",
-    title: "なぜWise Coinなのか？",
+    title: "なぜWiseCoinなのか？",
     items: [
       {
         icon: "🏆",
@@ -110,7 +110,7 @@ const ja: Dictionary = {
   },
   bitcastle: {
     description:
-      "bitcastleは2022年設立のグローバル暗号資産取引所で、100カ国以上・累計100万人以上のユーザーにサービスを提供しています。Wise Coinはbitcastleへの上場が予定されており、上場後はWISEを自由に売買できるようになります。",
+      "bitcastleは2022年設立のグローバル暗号資産取引所で、100カ国以上・累計100万人以上のユーザーにサービスを提供しています。WiseCoinはbitcastleへの上場が予定されており、上場後はWISEを自由に売買できるようになります。",
     benefits: [
       {
         title: "流動性確保",
@@ -131,7 +131,7 @@ const ja: Dictionary = {
     label: "✦ 運営者",
     title: "webwiseについて",
     description:
-      "webwiseはWise Coinの運営者・発行者であり、トークン配布、配当支払い、bitcastleでの上場プロセスを管理しています。",
+      "webwiseはWiseCoinの運営者・発行者であり、トークン配布、配当支払い、bitcastleでの上場プロセスを管理しています。",
     cta: "webwise-sg.comを見る →",
   },
   faqSection: {
@@ -154,13 +154,13 @@ const ja: Dictionary = {
     tagline: "ランク別配当 ERC-20トークン",
     copyright: "© 2026 webwise. All Rights Reserved.",
     disclaimerText:
-      "本サービスへの参加は元本の返還を保証するものではありません。暗号資産への投資には重大なリスクが伴います。すべての投資判断はご自身の判断と責任で行ってください。上場価格および配当実績は将来の成果を保証するものではありません。Wise Coinはwebwiseが発行するトークンであり、金融商品取引法上の有価証券ではありません。",
+      "本サービスへの参加は元本の返還を保証するものではありません。暗号資産への投資には重大なリスクが伴います。すべての投資判断はご自身の判断と責任で行ってください。上場価格および配当実績は将来の成果を保証するものではありません。WiseCoinはwebwiseが発行するトークンであり、金融商品取引法上の有価証券ではありません。",
   },
   aboutPage: {
-    hero: "Wise Coinについて",
+    hero: "WiseCoinについて",
     vision: "Vision",
     visionText:
-      "Wise Coinは、長期保有者により高いリターンを還元するために誕生しました。ランク別配当モデルとERC-20スマートコントラクトの安全性を組み合わせ、保有量を増やすほど収益が成長する仕組みを実現しています。",
+      "WiseCoinは、長期保有者により高いリターンを還元するために誕生しました。ランク別配当モデルとERC-20スマートコントラクトの安全性を組み合わせ、保有量を増やすほど収益が成長する仕組みを実現しています。",
     coreValues: "Core Values",
     values: [
       {
