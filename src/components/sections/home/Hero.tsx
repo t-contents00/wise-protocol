@@ -4,16 +4,8 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import Image from "next/image";
 import { useDict } from "@/i18n/DictContext";
-import { DIVIDEND_RANKS } from "@/data/tokenData";
+import { TOKEN } from "@/data/tokenData";
 import Countdown from "./Countdown";
-
-const rankColors: Record<string, string> = {
-  Regular: "text-gray-500",
-  Silver: "text-slate-600",
-  Gold: "text-yellow-600",
-  Diamond: "text-cyan-600",
-  VIP: "text-primary-green",
-};
 
 export default function Hero() {
   const { dict } = useDict();
@@ -63,7 +55,7 @@ export default function Hero() {
             <Countdown compact />
           </motion.div>
 
-          {/* Right: Rank Preview Card */}
+          {/* Right: Daily Dividend Card */}
           <motion.div
             initial={{ opacity: 0, x: 30 }}
             animate={{ opacity: 1, x: 0 }}
@@ -72,21 +64,24 @@ export default function Hero() {
           >
             <div className="bg-white rounded-2xl border border-gray-200 shadow-xl shadow-gray-200/50 p-8">
               <div className="text-center mb-6">
-                <span className="text-xs font-semibold text-primary-green uppercase tracking-wider">Dividend Ranks</span>
-                <h3 className="font-display text-xl font-bold text-gray-900 mt-1">Hold More. Earn More.</h3>
+                <span className="text-xs font-semibold text-primary-green uppercase tracking-wider">Daily Dividend</span>
+                <h3 className="font-display text-xl font-bold text-gray-900 mt-1">Hold. Earn. Daily.</h3>
               </div>
-              <div className="space-y-3">
-                {DIVIDEND_RANKS.map((rank) => (
-                  <div key={rank.name} className="flex items-center justify-between py-2.5 px-4 rounded-lg bg-gray-50">
-                    <span className={`font-semibold text-sm ${rankColors[rank.name]}`}>
-                      {rank.name}
-                    </span>
-                    <div className="text-right">
-                      <span className="font-bold text-gray-900">{(rank.rate * 100).toFixed(1)}%</span>
-                      <span className="text-gray-400 text-xs ml-1">/day</span>
-                    </div>
-                  </div>
-                ))}
+              <div className="text-center py-6 rounded-xl bg-gray-50 border border-gray-100">
+                <div className="green-text font-display text-5xl font-extrabold leading-none">
+                  {(TOKEN.dailyDividendRate * 100).toFixed(1)}%
+                </div>
+                <div className="text-gray-400 text-xs uppercase tracking-wider mt-2">per day · simple interest</div>
+              </div>
+              <div className="mt-6 space-y-3">
+                <div className="flex items-center justify-between py-2.5 px-4 rounded-lg bg-gray-50">
+                  <span className="font-semibold text-sm text-gray-500">Sale Price</span>
+                  <span className="font-bold text-gray-900">¥{TOKEN.salePrice}</span>
+                </div>
+                <div className="flex items-center justify-between py-2.5 px-4 rounded-lg bg-gray-50">
+                  <span className="font-semibold text-sm text-gray-500">Target Listing</span>
+                  <span className="font-bold text-gray-900">¥{TOKEN.targetListingPrice}</span>
+                </div>
               </div>
               <div className="mt-6 pt-4 border-t border-gray-100 text-center">
                 <span className="text-xs text-gray-400">{dict.hero.badge}</span>

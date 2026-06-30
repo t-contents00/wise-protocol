@@ -7,7 +7,7 @@ wise-protocol.xyz
 [COVER PAGE]
 Title: WiseCoin (WISE)
 Subtitle: Official Whitepaper
-Tagline: Rank-Based Daily Dividend ERC-20 Token
+Tagline: 0.3% Daily Dividend ERC-20 Token
 Version: v1.0
 Date: April 2026
 Website: wise-protocol.xyz
@@ -22,7 +22,7 @@ TABLE OF CONTENTS
 2. Introduction
 3. Token Overview
 4. Tokenomics
-5. Rank-Based Dividend System
+5. Dividend System
 6. Exchange Listing
 7. Roadmap
 8. Use Cases
@@ -33,22 +33,22 @@ TABLE OF CONTENTS
 
 1. EXECUTIVE SUMMARY
 
-WiseCoin (WISE) is an ERC-20 utility token that rewards committed holders with higher returns through a unique rank-based dividend system.
+WiseCoin (WISE) is an ERC-20 utility token designed to deliver consistent passive income to individual investors through a transparent daily dividend model.
 
-Unlike traditional flat-rate tokens, WiseCoin's dividend rate scales with your holdings — from 0.1% daily for entry-level holders to 0.5% daily for VIP-tier investors. This structure incentivizes long-term commitment and rewards conviction.
+Every holder earns a flat 0.3% daily dividend on their holdings, calculated using simple interest. The same rate applies to everyone, regardless of the amount held — creating a simple, predictable, and fair income stream.
 
 Key Highlights:
-- Rank-based daily dividends from 0.1% to 0.5% (simple interest)
-- 5-tier rank system: Regular, Silver, Gold, Diamond, VIP
+- 0.3% daily dividend paid in WISE tokens (simple interest)
+- Flat rate applied equally to all holders
 - Total supply: 8,000,000,000 WISE
 - Sale price: ¥1 per token
 - Target listing price: ¥10 on bitcastle exchange
 - Scheduled listing: Late December 2026
 - Operated by webwise (webwise-sg.com), based in Singapore
 
-WiseCoin combines the security of Ethereum-based ERC-20 smart contracts with an innovative tier-based reward model. The more you hold, the more you earn — creating a transparent and meritocratic dividend structure that rewards long-term believers.
+WiseCoin combines the security of Ethereum-based ERC-20 smart contracts with a straightforward dividend structure, making predictable passive income accessible to both experienced crypto investors and newcomers.
 
-With 40% of total supply dedicated to the dividend reserve, WiseCoin is structured for long-term sustainability and to deliver consistent rewards across all rank tiers.
+With 40% of total supply dedicated to the dividend reserve, WiseCoin is structured for long-term sustainability and to deliver consistent rewards to all holders.
 
 ================================================================
 
@@ -60,25 +60,25 @@ With 40% of total supply dedicated to the dividend reserve, WiseCoin is structur
 
 The cryptocurrency market has matured significantly over the past decade. According to CoinGecko, Bitcoin alone surpassed a market capitalization of $2 trillion in 2024, and the total crypto market continues to expand as adoption grows across DeFi, payments, and institutional investment.
 
-However, most tokens still rely on speculative price appreciation alone. Holders are exposed to high volatility without any predictable income stream. Even tokens that offer rewards typically apply a flat rate to all holders, providing no meaningful incentive for long-term commitment.
+However, most tokens still rely on speculative price appreciation alone. Holders are exposed to high volatility without any predictable income stream. Traditional financial instruments like bonds and dividend-paying stocks offer regular income, but these are often inaccessible to global retail investors.
 
 2.2 The WiseCoin Solution
 
-WiseCoin introduces a tier-based reward system that fundamentally changes the relationship between holders and tokens. Instead of treating all holders equally, WiseCoin rewards conviction — the more tokens you hold, the higher your daily dividend rate.
+WiseCoin addresses this gap by offering a dividend-paying ERC-20 token with a clear path to exchange listing. Rather than relying on speculation alone, WISE holders receive 0.3% of their holdings daily as dividends, calculated using simple interest.
 
-This creates a clear, transparent incentive structure:
-- Entry-level investors can start earning passive income at 0.1% daily
-- Committed holders can scale up to 0.5% daily by reaching the VIP tier
-- All ranks benefit from the security and liquidity of bitcastle listing
+This creates a clear, transparent income structure:
+- Every holder earns the same 0.3% daily rate, regardless of holdings
+- Income is predictable and calculated using simple interest
+- All holders benefit from the security and liquidity of bitcastle listing
 
-By combining tier-based rewards with the reliability of ERC-20 smart contracts, WiseCoin offers a clear path from casual investor to long-term stakeholder.
+By combining a transparent dividend model with the reliability of ERC-20 smart contracts, WiseCoin makes predictable passive income accessible to everyone.
 
 2.3 Project Vision
 
-WiseCoin was created to reward committed holders with higher returns. By combining a rank-based dividend model with ERC-20 smart contract security, WISE empowers investors to grow their earnings as they increase their holdings.
+WiseCoin was created to bring predictable passive income to individual investors. By combining a transparent 0.3% daily dividend model with ERC-20 smart contract security, WISE empowers holders to earn consistent daily returns on their investment.
 
 The project is built on three pillars:
-- Rank Rewards — Hold more, earn more (up to 0.5% daily)
+- Daily Rewards — A flat 0.3% daily dividend for every holder
 - Exchange Liquidity — Scheduled listing on bitcastle for free trading
 - On-Chain Security — ERC-20 verified smart contract on Ethereum
 
@@ -97,7 +97,7 @@ Token Specifications:
 | Total Supply          | 8,000,000,000               |
 | Sale Price            | ¥1 per token                |
 | Target Listing Price  | ¥10 per token               |
-| Daily Dividend Rate   | 0.1%–0.5% (Rank-Based)      |
+| Daily Dividend Rate   | 0.3% (Simple Interest)      |
 | Exchange              | bitcastle                   |
 | Expected Listing      | Late December 2026          |
 | Operator              | webwise (webwise-sg.com)    |
@@ -135,11 +135,11 @@ Color scheme for chart:
 
 4.1 Dividend Reserve — 40% (3,200,000,000 tokens)
 
-The largest allocation is dedicated to funding the rank-based dividend program. This 40% reserve — larger than typical token projects — ensures long-term sustainability of higher-tier rewards (up to 0.5% daily for VIP holders) and demonstrates webwise's commitment to delivering consistent payments.
+The largest allocation is dedicated to funding daily dividend payments. This 40% reserve — larger than typical token projects — ensures long-term sustainability of the 0.3% daily dividend program and demonstrates webwise's commitment to delivering consistent payments.
 
 4.2 Public Sale — 30% (2,400,000,000 tokens)
 
-Tokens available for purchase at ¥1 per token. The public sale provides broad access to WISE for individual investors worldwide and forms the foundation for the rank-based ecosystem.
+Tokens available for purchase at ¥1 per token. The public sale provides broad access to WISE for individual investors worldwide and forms the foundation for the dividend ecosystem.
 
 4.3 Development & Operations — 18% (1,440,000,000 tokens)
 
@@ -151,59 +151,48 @@ Reserved for partnerships, ecosystem expansion, community initiatives, and strat
 
 ================================================================
 
-5. RANK-BASED DIVIDEND SYSTEM
+5. DIVIDEND SYSTEM
 
-[IMAGE SUGGESTION: Tier/rank visualization or growing bars. Green tones. Shutterstock keyword: "tier ranking growth chart". Designer's choice.]
+[IMAGE SUGGESTION: Daily income / passive earnings visualization. Green tones. Shutterstock keyword: "passive income daily growth chart". Designer's choice.]
 
 5.1 Overview
 
-WiseCoin's core innovation is its rank-based dividend system. Rather than applying a flat rate to all holders, WISE rewards conviction — holders who commit more tokens receive higher daily dividend rates.
+WiseCoin's core value proposition is its 0.3% daily dividend, calculated using simple interest on each holder's token balance. The same flat rate applies to every holder, regardless of the amount held — providing a simple, predictable, and fair return.
 
-5.2 Rank Tiers
-
-| Rank      | Required Holdings        | Daily Rate | Annual Equivalent |
-|-----------|--------------------------|------------|-------------------|
-| Regular   | 0 – 9,999,999            | 0.1%       | ~36.5%            |
-| Silver    | 10,000,000 – 19,999,999  | 0.2%       | ~73%              |
-| Gold      | 20,000,000 – 29,999,999  | 0.3%       | ~109.5%           |
-| Diamond   | 30,000,000 – 39,999,999  | 0.4%       | ~146%             |
-| VIP       | 40,000,000+              | 0.5%       | ~182.5%           |
-
-5.3 Calculation Method
+5.2 Calculation Method
 
 Formula:
-Holdings × Rank Rate = Daily Dividend (WISE)
+Holdings × 0.003 = Daily Dividend (WISE)
 
-Each holder's daily dividend is calculated using simple interest based on their current rank. Holders automatically benefit from rank upgrades as they accumulate more tokens.
+Each holder's daily dividend is calculated using simple interest, meaning the rate applies to the original holdings rather than compounded amounts. The dividend is paid in WISE tokens based on the number of tokens held.
 
-5.4 Scenario Simulations
+5.3 Scenario Simulations
 
 [Note to designer: Please format as a clean comparison table]
 
-|                       | 5M WISE     | 15M WISE     | 25M WISE     | 35M WISE     | 50M WISE      |
-|-----------------------|-------------|--------------|--------------|--------------|---------------|
-| Rank                  | Regular     | Silver       | Gold         | Diamond      | VIP           |
-| Daily Rate            | 0.1%        | 0.2%         | 0.3%         | 0.4%         | 0.5%          |
-| Daily Dividend        | 5,000       | 30,000       | 75,000       | 140,000      | 250,000       |
-| 30-Day Total          | 150,000     | 900,000      | 2,250,000    | 4,200,000    | 7,500,000     |
-| 90-Day Total          | 450,000     | 2,700,000    | 6,750,000    | 12,600,000   | 22,500,000    |
-| 180-Day Total         | 900,000     | 5,400,000    | 13,500,000   | 25,200,000   | 45,000,000    |
-| Listing Value (¥10)   | 50,000,000  | 150,000,000  | 250,000,000  | 350,000,000  | 500,000,000   |
+|                       | 100,000 WISE | 1,000,000 WISE | 10,000,000 WISE |
+|-----------------------|--------------|----------------|-----------------|
+| Daily Rate            | 0.3%         | 0.3%           | 0.3%            |
+| Daily Dividend        | 300          | 3,000          | 30,000          |
+| 30-Day Total          | 9,000        | 90,000         | 900,000         |
+| 90-Day Total          | 27,000       | 270,000        | 2,700,000       |
+| 180-Day Total         | 54,000       | 540,000        | 5,400,000       |
+| Listing Value (¥10)   | 1,000,000    | 10,000,000     | 100,000,000     |
 
 All values shown in WISE tokens. The listing value assumes the target price and is not guaranteed.
 
-5.5 Payment Schedule
+5.4 Payment Schedule
 
-Dividend payment schedules will be announced as the project progresses. Rates are calculated on a daily basis using simple interest according to each holder's rank tier.
+Dividend payment schedules will be announced as the project progresses. The rate is calculated on a daily basis using simple interest.
 
-5.6 Distribution Method
+5.5 Distribution Method
 
 Dividend distribution methods will be confirmed prior to the system launch. Updates will be published on the official website at wise-protocol.xyz.
 
-5.7 Important Notes
+5.6 Important Notes
 
-- The rank-based rates are the current planned rates
-- All investments carry risk and rates may be subject to change
+- The 0.3% daily rate is the current planned rate
+- All investments carry risk and the rate may be subject to change
 - Values shown are projections and not guaranteed
 - The ¥10 listing price is a target value and is not guaranteed
 
@@ -266,21 +255,21 @@ Phase 4: Listing
 
 [IMAGE SUGGESTION: Person managing digital portfolio on laptop or tablet. Modern/professional. Shutterstock keyword: "professional managing crypto portfolio laptop". Designer's choice.]
 
-8.1 Tier-Based Passive Income
+8.1 Daily Passive Income
 
-WISE holders earn daily dividends automatically based on their rank tier. The more tokens you hold, the higher your rate — from 0.1% (Regular) up to 0.5% (VIP). This creates a unique incentive to commit long-term and unlock higher rewards.
+WISE holders earn a flat 0.3% daily dividend automatically on their holdings. This provides a predictable, transparent income stream — for example, holding 1,000,000 WISE earns 3,000 WISE per day. The same rate applies to every holder.
 
-8.2 Strategic Accumulation
+8.2 Long-Term Accumulation
 
-The rank system rewards strategic accumulation. Holders can plan their token acquisitions to reach specific tier thresholds — for example, purchasing additional WISE to upgrade from Silver (0.2%) to Gold (0.3%) increases dividend earnings significantly from that point forward.
+Because dividends are paid daily on every token held, the more WISE you hold, the greater your total daily dividend in absolute terms. Holders can steadily grow their token balance to increase their daily income over time.
 
 8.3 Exchange Trading
 
-After listing on bitcastle, WISE tokens can be freely traded against other cryptocurrencies. Holders can take advantage of price movements while continuing to earn rank-based dividends on their remaining holdings.
+After listing on bitcastle, WISE tokens can be freely traded against other cryptocurrencies. Holders can take advantage of price movements while continuing to earn daily dividends on their remaining holdings.
 
 8.4 Portfolio Diversification
 
-As an ERC-20 token with a built-in tiered reward mechanism, WISE offers a differentiated asset class within a crypto portfolio — providing predictable income generation alongside the growth potential typical of digital assets.
+As an ERC-20 token with a built-in daily dividend mechanism, WISE offers a differentiated asset class within a crypto portfolio — providing predictable income generation alongside the growth potential typical of digital assets.
 
 ================================================================
 
@@ -302,7 +291,7 @@ WISE uses the ERC-20 standard — the most widely adopted token standard in the 
 
 9.4 Liquidity
 
-Once listed on bitcastle, WISE will be freely tradable on the exchange. During the pre-listing period, trading opportunities are limited; however, dividend earnings continue throughout this period based on each holder's rank.
+Once listed on bitcastle, WISE will be freely tradable on the exchange. During the pre-listing period, trading opportunities are limited; however, dividend earnings continue throughout this period at the flat 0.3% daily rate.
 
 9.5 Operations
 

@@ -3,15 +3,13 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import CountUp from "react-countup";
-import { calculateDividend, getRank, DIVIDEND_RANKS, TOKEN } from "@/data/tokenData";
+import { calculateDividend, TOKEN } from "@/data/tokenData";
 import { useDict } from "@/i18n/DictContext";
 
 export default function Simulator() {
   const { dict } = useDict();
   const [quantity, setQuantity] = useState(20_000_000);
   const result = calculateDividend(quantity);
-  const rank = getRank(quantity);
-  const nextRank = DIVIDEND_RANKS.find(r => r.minTokens > quantity);
 
   const rows = [
     { label: dict.simulator.principal, value: result.principal },
@@ -88,24 +86,17 @@ export default function Simulator() {
                   </div>
                 </div>
 
-                {/* Rank Display */}
+                {/* Daily Rate Display */}
                 <div className="p-4 rounded-xl bg-gray-50 border border-gray-100">
                   <div className="flex items-center justify-between mb-2">
-                    <span className="text-gray-500 text-sm">Your Rank</span>
+                    <span className="text-gray-500 text-sm">Daily Dividend Rate</span>
                     <span className="text-primary-green text-xl font-bold">
-                      {rank.name} ({(rank.rate * 100).toFixed(1)}%/day)
+                      {(TOKEN.dailyDividendRate * 100).toFixed(1)}%/day
                     </span>
                   </div>
-                  {nextRank && (
-                    <div className="text-gray-400 text-xs">
-                      Next rank: {nextRank.name} ({(nextRank.rate * 100).toFixed(1)}%) — hold {(nextRank.minTokens - quantity).toLocaleString()} more WISE
-                    </div>
-                  )}
-                  {!nextRank && (
-                    <div className="text-primary-green text-xs font-medium">
-                      Maximum rank achieved!
-                    </div>
-                  )}
+                  <div className="text-gray-400 text-xs">
+                    A flat {(TOKEN.dailyDividendRate * 100).toFixed(1)}% daily rate applies to all holdings, calculated using simple interest.
+                  </div>
                 </div>
               </div>
 

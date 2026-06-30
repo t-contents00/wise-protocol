@@ -12,18 +12,14 @@
 - react-countup + react-intersection-observer
 
 ## 特徴（CROWNとの違い）
-- ランク別配当制度（5段階: Regular 0.1% 〜 VIP 0.5%）
+- 一律配当制度（日利0.3%・単利、全保有者共通）
 - ブルーテーマ（#2E6BE6 メイン / #060610 背景）
 - 運営者: webwise（CROWNはideas）
 
-## 配当ランク
-| ランク | 必要保有量 | 日利 |
-|-------|----------|------|
-| Regular | 〜9,999,999 | 0.1% |
-| Silver | 10,000,000〜 | 0.2% |
-| Gold | 20,000,000〜 | 0.3% |
-| Diamond | 30,000,000〜 | 0.4% |
-| VIP | 40,000,000〜 | 0.5% |
+## 配当
+- 日利: 0.3%（一律・単利）
+- 計算式: 保有量 × 0.003 = 日次配当（WISE）
+- 全保有者に同一レートを適用（ランク制は廃止）
 
 ## i18n（日英対応）
 - URL構成: /en/... と /ja/...
@@ -31,7 +27,7 @@
 - FAQ翻訳: src/i18n/faq-en.ts, src/i18n/faq-ja.ts
 
 ## ページ構成
-- Home — Hero, Countdown, Stats, RankTable, Simulator, Features, Tokenomics, Roadmap, bitcastle, webwise, FAQ Preview, Contact
+- Home — Hero, Countdown, Stats, Simulator, Features, Tokenomics, Roadmap, bitcastle, webwise, FAQ Preview, Contact
 - About — Vision, Core Values, Team
 - Tokenomics — 配分チャート, 配当メカニズム, シナリオ比較
 - FAQ — 3カテゴリ（General, Dividends, Listing & Selling）

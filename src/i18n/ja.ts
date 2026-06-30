@@ -8,12 +8,12 @@ const ja: Dictionary = {
     faq: "FAQ",
   },
   hero: {
-    eyebrow: "RANK-BASED DAILY REWARDS",
+    eyebrow: "DAILY DIVIDEND REWARDS",
     badge: "✦ ERC-20 TOKEN | Listing on bitcastle",
     headline: "Smart Holding.",
     headlineHighlight: "賢く、増やす。",
     description:
-      "WiseCoinは保有量に応じて毎日0.1%〜0.5%の配当を受け取れます。\n¥1で購入 — bitcastleでの上場目標価格は¥10。",
+      "WiseCoinは保有するすべてのトークンに毎日0.3%の配当を受け取れます。\n¥1で購入 — bitcastleでの上場目標価格は¥10。",
     ctaPrimary: "シミュレーターを試す",
   },
   countdown: {
@@ -25,7 +25,7 @@ const ja: Dictionary = {
     expected: "予定：2026年12月下旬",
   },
   stats: {
-    dailyYield: "日利（ランク制）",
+    dailyYield: "日利（単利）",
     salePrice: "トークン販売価格",
     targetPrice: "上場目標価格",
     totalSupply: "総発行量",
@@ -33,7 +33,7 @@ const ja: Dictionary = {
   simulator: {
     label: "✦ 計算ツール",
     title: "配当シミュレーター",
-    subtitle: "あなたのランクと収益を計算",
+    subtitle: "あなたの日次収益を計算",
     inputLabel: "トークン数量（WISE）",
     principal: "保有量",
     dailyDividend: "日次配当",
@@ -43,7 +43,7 @@ const ja: Dictionary = {
     listingValue: "上場時の資産価値",
     total: "合計（180日配当＋上場価値）",
     disclaimer:
-      "※ 計算はランク別単利に基づいています。¥10の上場価格は目標値であり、保証されるものではありません。表示値はWISEトークン単位です。すべての投資は自己責任で行ってください。",
+      "※ 計算は一律0.3%の日次単利に基づいています。¥10の上場価格は目標値であり、保証されるものではありません。表示値はWISEトークン単位です。すべての投資は自己責任で行ってください。",
   },
   features: {
     label: "✦ 特徴",
@@ -51,9 +51,9 @@ const ja: Dictionary = {
     items: [
       {
         icon: "🏆",
-        title: "ランク別配当",
+        title: "日利0.3%の配当",
         description:
-          "保有量に応じて日利0.1%〜0.5%を獲得。多く持つほどランクと報酬がアップ。",
+          "保有するすべてのトークンに一律日利0.3%を獲得。単利で計算され、透明で予測可能な報酬。",
       },
       {
         icon: "📊",
@@ -151,7 +151,7 @@ const ja: Dictionary = {
     error: "送信に失敗しました。時間をおいて再度お試しください。",
   },
   footer: {
-    tagline: "ランク別配当 ERC-20トークン",
+    tagline: "日利0.3%配当 ERC-20トークン",
     copyright: "© 2026 webwise. All Rights Reserved.",
     disclaimerText:
       "本サービスへの参加は元本の返還を保証するものではありません。暗号資産への投資には重大なリスクが伴います。すべての投資判断はご自身の判断と責任で行ってください。上場価格および配当実績は将来の成果を保証するものではありません。WiseCoinはwebwiseが発行するトークンであり、金融商品取引法上の有価証券ではありません。",
@@ -160,12 +160,12 @@ const ja: Dictionary = {
     hero: "WiseCoinについて",
     vision: "Vision",
     visionText:
-      "WiseCoinは、長期保有者により高いリターンを還元するために誕生しました。ランク別配当モデルとERC-20スマートコントラクトの安全性を組み合わせ、保有量を増やすほど収益が成長する仕組みを実現しています。",
+      "WiseCoinは、個人投資家に予測可能なパッシブインカムをもたらすために誕生しました。透明な日利0.3%の配当モデルとERC-20スマートコントラクトの安全性を組み合わせ、保有者が安定した日次リターンを得られる仕組みを実現しています。",
     coreValues: "Core Values",
     values: [
       {
-        title: "ランク報酬",
-        description: "多く持つほど高配当、最大0.5%/日",
+        title: "日次報酬",
+        description: "保有量に一律日利0.3%を獲得",
         icon: "🏆",
       },
       {
@@ -194,7 +194,7 @@ const ja: Dictionary = {
     dividendMechanism: "配当の仕組み",
     calculation: "計算方法",
     calculationText:
-      "日次配当はランク別の単利で計算されます。計算式：保有量 × ランクレート = 日次配当（WISE）。",
+      "日次配当は一律0.3%の単利で計算されます。計算式：保有量 × 0.003 = 日次配当（WISE）。",
     paymentSchedule: "支払いスケジュール",
     paymentScheduleText:
       "配当支払いスケジュールはプロジェクトの進行に合わせて発表されます。日次ベースの単利で計算されます。",

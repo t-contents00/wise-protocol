@@ -6,12 +6,12 @@ const en = {
     faq: "FAQ",
   },
   hero: {
-    eyebrow: "RANK-BASED DAILY REWARDS",
+    eyebrow: "DAILY DIVIDEND REWARDS",
     badge: "✦ ERC-20 TOKEN | Listing on bitcastle",
     headline: "Smart Holding.",
     headlineHighlight: "Smarter Returns.",
     description:
-      "WiseCoin offers rank-based daily dividends from 0.1% to 0.5% based on your holdings.\nPurchase at ¥1 per token — target listing price ¥10 on bitcastle.",
+      "WiseCoin delivers 0.3% daily dividends on every token you hold.\nPurchase at ¥1 per token — target listing price ¥10 on bitcastle.",
     ctaPrimary: "Try the Simulator",
   },
   countdown: {
@@ -23,7 +23,7 @@ const en = {
     expected: "Expected: Late December 2026",
   },
   stats: {
-    dailyYield: "Daily Yield (Rank-Based)",
+    dailyYield: "Daily Yield (Simple Interest)",
     salePrice: "Sale Price per Token",
     targetPrice: "Target Listing Price",
     totalSupply: "Total Supply",
@@ -31,7 +31,7 @@ const en = {
   simulator: {
     label: "✦ Calculator",
     title: "Dividend Simulator",
-    subtitle: "Calculate Your Rank & Earnings",
+    subtitle: "Calculate Your Daily Earnings",
     inputLabel: "Token Amount (WISE)",
     principal: "Holdings",
     dailyDividend: "Daily Dividend",
@@ -41,7 +41,7 @@ const en = {
     listingValue: "Portfolio Value at Listing",
     total: "Total (180-day + Listing)",
     disclaimer:
-      "* Calculations based on rank-based simple interest. The ¥10 listing price is a target value and is not guaranteed. Values shown in WISE tokens. All investments are made at your own risk.",
+      "* Calculations based on a flat 0.3% daily simple interest. The ¥10 listing price is a target value and is not guaranteed. Values shown in WISE tokens. All investments are made at your own risk.",
   },
   features: {
     label: "✦ Features",
@@ -49,9 +49,9 @@ const en = {
     items: [
       {
         icon: "🏆",
-        title: "Rank-Based Dividends",
+        title: "0.3% Daily Dividends",
         description:
-          "Earn 0.1% to 0.5% daily based on your holding tier. The more you hold, the higher your rank and rewards.",
+          "Earn a flat 0.3% daily on every token you hold, calculated using simple interest. Transparent and predictable rewards.",
       },
       {
         icon: "📊",
@@ -149,7 +149,7 @@ const en = {
     error: "Failed to send. Please try again later.",
   },
   footer: {
-    tagline: "Rank-Based Daily Dividend ERC-20 Token",
+    tagline: "0.3% Daily Dividend ERC-20 Token",
     copyright: "© 2026 webwise. All Rights Reserved.",
     disclaimerText:
       "Participation in this service does not guarantee the return of principal. Investing in cryptocurrency involves significant risk. All investment decisions are made at your own discretion and risk. Listing price and dividend performance do not guarantee future results. WiseCoin is a utility token issued by webwise and is not classified as a security under applicable securities laws.",
@@ -158,12 +158,12 @@ const en = {
     hero: "About WiseCoin",
     vision: "Project Vision",
     visionText:
-      "WiseCoin was created to reward committed holders with higher returns. By combining a rank-based dividend model with ERC-20 smart contract security, WISE empowers investors to grow their earnings as they increase their holdings.",
+      "WiseCoin was created to bring predictable passive income to individual investors. By combining a transparent 0.3% daily dividend model with ERC-20 smart contract security, WISE empowers holders to earn consistent daily returns on their investment.",
     coreValues: "Core Values",
     values: [
       {
-        title: "Rank Rewards",
-        description: "Hold more, earn more — up to 0.5% daily",
+        title: "Daily Rewards",
+        description: "Earn a flat 0.3% daily on your holdings",
         icon: "🏆",
       },
       {
@@ -192,7 +192,7 @@ const en = {
     dividendMechanism: "Dividend Mechanism",
     calculation: "Calculation",
     calculationText:
-      "Daily dividends are calculated using rank-based simple interest. Formula: Holdings × Rank Rate = Daily Dividend (WISE).",
+      "Daily dividends are calculated using simple interest at a flat 0.3% rate. Formula: Holdings × 0.003 = Daily Dividend (WISE).",
     paymentSchedule: "Payment Schedule",
     paymentScheduleText:
       "Dividend payment schedules will be announced as the project progresses. The rate is calculated on a daily basis using simple interest.",

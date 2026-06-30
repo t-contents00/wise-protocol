@@ -1,6 +1,5 @@
 import Hero from "@/components/sections/home/Hero";
 import Stats from "@/components/sections/home/Stats";
-import RankTable from "@/components/sections/home/RankTable";
 import Simulator from "@/components/sections/home/Simulator";
 import Features from "@/components/sections/home/Features";
 import Tokenomics from "@/components/sections/home/Tokenomics";
@@ -15,7 +14,6 @@ export default function Home() {
     <main>
       <Hero />
       <Stats />
-      <RankTable />
       <Simulator />
       <Features />
       <Tokenomics />

@@ -7,7 +7,7 @@ export const FAQ_EN: FAQCategory[] = [
       {
         question: "What is WiseCoin?",
         answer:
-          "WiseCoin (WISE) is an ERC-20 token that provides holders with rank-based daily dividends from 0.1% to 0.5% depending on holdings. It is operated by webwise and scheduled for listing on bitcastle exchange.",
+          "WiseCoin (WISE) is an ERC-20 token that provides holders with a flat 0.3% daily dividend on their holdings. It is operated by webwise and scheduled for listing on bitcastle exchange.",
       },
       {
         question: "Who operates WiseCoin?",
@@ -35,19 +35,19 @@ export const FAQ_EN: FAQCategory[] = [
     name: "Dividends",
     items: [
       {
-        question: "How does the rank-based dividend system work?",
+        question: "How does the dividend system work?",
         answer:
-          "WISE uses a 5-tier rank system based on your holdings: Regular (0.1%), Silver (0.2%), Gold (0.3%), Diamond (0.4%), and VIP (0.5%). The more tokens you hold, the higher your daily dividend rate.",
+          "WISE pays a flat 0.3% daily dividend on your token holdings, calculated using simple interest. The rate applies equally to all holders regardless of the amount held.",
       },
       {
-        question: "What are the rank thresholds?",
+        question: "How is my daily dividend calculated?",
         answer:
-          "Regular: 0-9,999,999 WISE (0.1%/day), Silver: 10,000,000+ (0.2%/day), Gold: 20,000,000+ (0.3%/day), Diamond: 30,000,000+ (0.4%/day), VIP: 40,000,000+ (0.5%/day).",
+          "Your daily dividend is your holdings multiplied by 0.3% (0.003). For example, 1,000,000 WISE earns 3,000 WISE per day. Calculations use simple interest on your original holdings.",
       },
       {
         question: "When are dividends paid?",
         answer:
-          "Dividend payment schedules will be announced. Rates are calculated on a daily simple interest basis according to your rank.",
+          "Dividend payment schedules will be announced. Rates are calculated on a daily simple interest basis.",
       },
       {
         question: "How do I receive my dividends?",
@@ -57,7 +57,7 @@ export const FAQ_EN: FAQCategory[] = [
       {
         question: "Is the dividend rate guaranteed?",
         answer:
-          "The rank-based rates are the current planned rates. All investments carry risk, and rates may be subject to change. Please review the disclaimer for full details.",
+          "The 0.3% daily rate is the current planned rate. All investments carry risk, and the rate may be subject to change. Please review the disclaimer for full details.",
       },
     ],
   },

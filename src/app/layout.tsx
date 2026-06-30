@@ -16,26 +16,26 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title:
-    "WiseCoin (WISE) | Rank-Based Daily Dividend ERC-20 Token | Listing on bitcastle",
+    "WiseCoin (WISE) | 0.3% Daily Dividend ERC-20 Token | Listing on bitcastle",
   description:
-    "WiseCoin offers rank-based daily dividends from 0.1% to 0.5% based on your holdings. Purchase at ¥1, target listing price ¥10 on bitcastle. Operated by webwise.",
+    "WiseCoin delivers 0.3% daily dividends on your holdings. Purchase at ¥1, target listing price ¥10 on bitcastle. Operated by webwise.",
   metadataBase: new URL(
     process.env.NEXT_PUBLIC_SITE_URL || "https://wise-protocol.xyz"
   ),
   openGraph: {
     title:
-      "WiseCoin (WISE) | Rank-Based Daily Dividend ERC-20 Token | Listing on bitcastle",
+      "WiseCoin (WISE) | 0.3% Daily Dividend ERC-20 Token | Listing on bitcastle",
     description:
-      "WiseCoin offers rank-based daily dividends from 0.1% to 0.5% based on your holdings. Purchase at ¥1, target listing price ¥10 on bitcastle. Operated by webwise.",
+      "WiseCoin delivers 0.3% daily dividends on your holdings. Purchase at ¥1, target listing price ¥10 on bitcastle. Operated by webwise.",
     images: ["/images/wise-logo.png"],
     type: "website",
     url: "https://wise-protocol.xyz",
   },
   twitter: {
     card: "summary_large_image",
-    title: "WiseCoin (WISE) | Rank-Based Daily Dividend ERC-20 Token",
+    title: "WiseCoin (WISE) | 0.3% Daily Dividend ERC-20 Token",
     description:
-      "WiseCoin offers rank-based daily dividends from 0.1% to 0.5%. Purchase at ¥1, target ¥10 on bitcastle.",
+      "WiseCoin delivers 0.3% daily dividends on your holdings. Purchase at ¥1, target ¥10 on bitcastle.",
     images: ["/images/wise-logo.png"],
   },
   alternates: {
