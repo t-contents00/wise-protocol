@@ -7,12 +7,12 @@ export const FAQ_JA: FAQCategory[] = [
       {
         question: "WiseCoinとは何ですか？",
         answer:
-          "WiseCoin（WISE）はERC-20トークンで、保有量に対して毎日一律0.3%の配当を提供します。webwiseが運営し、bitcastle取引所への上場が予定されています。",
+          "WiseCoin（WISE）はERC-20トークンで、保有量に対して毎日一律0.3%の配当を提供します。Starlinks Solutions Pte. Ltd.が運営し、bitcastle取引所への上場が予定されています。",
       },
       {
         question: "WiseCoinの運営者は誰ですか？",
         answer:
-          "WiseCoinはwebwise（webwise-sg.com）が発行・運営しており、トークン配布、配当支払い、取引所上場プロセスを管理しています。",
+          "WiseCoinはStarlinks Solutions Pte. Ltd.（starlinks-sg.com/wise）が発行・運営しており、トークン配布、配当支払い、取引所上場プロセスを管理しています。",
       },
       {
         question: "WiseCoinは有価証券ですか？",
@@ -85,9 +85,9 @@ export const FAQ_JA: FAQCategory[] = [
           "トークンの割り当ておよび売れ残りトークンの取り扱いはプロジェクトロードマップに基づいて管理されます。詳細は確定次第公表されます。",
       },
       {
-        question: "webwiseとbitcastleの関係は？",
+        question: "Starlinks Solutions Pte. Ltd.とbitcastleの関係は？",
         answer:
-          "webwiseはWiseCoinの運営者・発行者です。bitcastleはWISEが上場される取引所です。両社は上場に向けて協力する別個の事業体です。",
+          "Starlinks Solutions Pte. Ltd.はWiseCoinの運営者・発行者です。bitcastleはWISEが上場される取引所です。両社は上場に向けて協力する別個の事業体です。",
       },
     ],
   },

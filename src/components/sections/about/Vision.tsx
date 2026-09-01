@@ -91,7 +91,7 @@ export default function Vision() {
         </div>
       </section>
 
-      {/* About webwise */}
+      {/* About STARLINKS */}
       <section className="section-padding">
         <div className="max-w-4xl mx-auto text-center">
           <motion.div
@@ -104,8 +104,8 @@ export default function Vision() {
               {dict.webwise.title}
             </h2>
             <Image
-              src="/images/webwise-logo.png"
-              alt="webwise"
+              src="/images/starlinks-logo.png"
+              alt="STARLINKS"
               width={140}
               height={44}
               className="mx-auto mb-6"

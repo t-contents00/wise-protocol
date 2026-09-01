@@ -15,12 +15,12 @@ export const FAQ_CATEGORIES: FAQCategory[] = [
       {
         question: "What is WiseCoin?",
         answer:
-          "WiseCoin (WISE) is an ERC-20 token that provides holders with a flat 0.3% daily dividend on their holdings. It is operated by webwise and scheduled for listing on bitcastle exchange.",
+          "WiseCoin (WISE) is an ERC-20 token that provides holders with a flat 0.3% daily dividend on their holdings. It is operated by Starlinks Solutions Pte. Ltd. and scheduled for listing on bitcastle exchange.",
       },
       {
         question: "Who operates WiseCoin?",
         answer:
-          "WiseCoin is issued and operated by webwise (webwise-sg.com), a company that manages the token distribution, dividend payments, and exchange listing process.",
+          "WiseCoin is issued and operated by Starlinks Solutions Pte. Ltd. (starlinks-sg.com/wise), a company that manages the token distribution, dividend payments, and exchange listing process.",
       },
       {
         question: "Is WiseCoin a registered security?",
@@ -93,9 +93,9 @@ export const FAQ_CATEGORIES: FAQCategory[] = [
           "Token allocation and handling of unsold tokens will be managed according to the project roadmap. Details will be published as they are finalized.",
       },
       {
-        question: "What is the relationship between webwise and bitcastle?",
+        question: "What is the relationship between Starlinks Solutions Pte. Ltd. and bitcastle?",
         answer:
-          "webwise is the operator and issuer of WiseCoin. bitcastle is the exchange where WISE will be listed for public trading. They are separate entities collaborating on the listing.",
+          "Starlinks Solutions Pte. Ltd. is the operator and issuer of WiseCoin. bitcastle is the exchange where WISE will be listed for public trading. They are separate entities collaborating on the listing.",
       },
     ],
   },

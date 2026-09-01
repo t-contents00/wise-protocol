@@ -14,8 +14,8 @@ export const TOKEN = {
     ja: "https://bitcastle.io/ja/notification/1-1071/new-listing-wise",
     en: "https://bitcastle.io/en/notification/1-1071/new-listing-wise",
   },
-  operator: "webwise",
-  operatorUrl: "https://webwise-sg.com/",
+  operator: "Starlinks Solutions Pte. Ltd.",
+  operatorUrl: "https://starlinks-sg.com/wise/",
   currency: "WISE",
 } as const;
 

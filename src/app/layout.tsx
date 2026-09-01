@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title:
     "WiseCoin (WISE) | 0.3% Daily Dividend ERC-20 Token | Listing on bitcastle",
   description:
-    "WiseCoin delivers 0.3% daily dividends on your holdings. Purchase at ¥1, target listing price ¥10 on bitcastle. Operated by webwise.",
+    "WiseCoin delivers 0.3% daily dividends on your holdings. Purchase at ¥1, target listing price ¥10 on bitcastle. Operated by Starlinks Solutions Pte. Ltd.",
   metadataBase: new URL(
     process.env.NEXT_PUBLIC_SITE_URL || "https://wise-protocol.xyz"
   ),
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     title:
       "WiseCoin (WISE) | 0.3% Daily Dividend ERC-20 Token | Listing on bitcastle",
     description:
-      "WiseCoin delivers 0.3% daily dividends on your holdings. Purchase at ¥1, target listing price ¥10 on bitcastle. Operated by webwise.",
+      "WiseCoin delivers 0.3% daily dividends on your holdings. Purchase at ¥1, target listing price ¥10 on bitcastle. Operated by Starlinks Solutions Pte. Ltd.",
     images: ["/images/wise-logo.png"],
     type: "website",
     url: "https://wise-protocol.xyz",

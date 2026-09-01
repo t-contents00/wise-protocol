@@ -130,10 +130,10 @@ const ja: Dictionary = {
   },
   webwise: {
     label: "✦ 運営者",
-    title: "webwiseについて",
+    title: "STARLINKSについて",
     description:
-      "webwiseはWiseCoinの運営者・発行者であり、トークン配布、配当支払い、bitcastleでの上場プロセスを管理しています。",
-    cta: "webwise-sg.comを見る →",
+      "Starlinks Solutions Pte. Ltd.はWiseCoinの運営者・発行者であり、トークン配布、配当支払い、bitcastleでの上場プロセスを管理しています。",
+    cta: "starlinks-sg.com/wiseを見る →",
   },
   faqSection: {
     label: "✦ よくある質問",
@@ -153,9 +153,9 @@ const ja: Dictionary = {
   },
   footer: {
     tagline: "日利0.3%配当 ERC-20トークン",
-    copyright: "© 2026 webwise. All Rights Reserved.",
+    copyright: "© 2026 Starlinks Solutions Pte. Ltd. All Rights Reserved.",
     disclaimerText:
-      "本サービスへの参加は元本の返還を保証するものではありません。暗号資産への投資には重大なリスクが伴います。すべての投資判断はご自身の判断と責任で行ってください。上場価格および配当実績は将来の成果を保証するものではありません。WiseCoinはwebwiseが発行するトークンであり、金融商品取引法上の有価証券ではありません。",
+      "本サービスへの参加は元本の返還を保証するものではありません。暗号資産への投資には重大なリスクが伴います。すべての投資判断はご自身の判断と責任で行ってください。上場価格および配当実績は将来の成果を保証するものではありません。WiseCoinはStarlinks Solutions Pte. Ltd.が発行するトークンであり、金融商品取引法上の有価証券ではありません。",
   },
   aboutPage: {
     hero: "WiseCoinについて",

@@ -128,10 +128,10 @@ const en = {
   },
   webwise: {
     label: "✦ Operator",
-    title: "About webwise",
+    title: "About STARLINKS",
     description:
-      "webwise is the operator and issuer of WiseCoin, managing token distribution, dividend payments, and the exchange listing process on bitcastle.",
-    cta: "Visit webwise-sg.com →",
+      "Starlinks Solutions Pte. Ltd. is the operator and issuer of WiseCoin, managing token distribution, dividend payments, and the exchange listing process on bitcastle.",
+    cta: "Visit STARLINKS →",
   },
   faqSection: {
     label: "✦ FAQ",
@@ -151,9 +151,9 @@ const en = {
   },
   footer: {
     tagline: "0.3% Daily Dividend ERC-20 Token",
-    copyright: "© 2026 webwise. All Rights Reserved.",
+    copyright: "© 2026 Starlinks Solutions Pte. Ltd. All Rights Reserved.",
     disclaimerText:
-      "Participation in this service does not guarantee the return of principal. Investing in cryptocurrency involves significant risk. All investment decisions are made at your own discretion and risk. Listing price and dividend performance do not guarantee future results. WiseCoin is a utility token issued by webwise and is not classified as a security under applicable securities laws.",
+      "Participation in this service does not guarantee the return of principal. Investing in cryptocurrency involves significant risk. All investment decisions are made at your own discretion and risk. Listing price and dividend performance do not guarantee future results. WiseCoin is a utility token issued by Starlinks Solutions Pte. Ltd. and is not classified as a security under applicable securities laws.",
   },
   aboutPage: {
     hero: "About WiseCoin",

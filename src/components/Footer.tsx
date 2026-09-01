@@ -38,8 +38,8 @@ export default function Footer({ dict }: FooterProps) {
           <div className="flex items-center justify-center gap-8">
             <a href={TOKEN.operatorUrl} target="_blank" rel="noopener noreferrer">
               <Image
-                src="/images/webwise-logo.png"
-                alt="webwise"
+                src="/images/starlinks-logo.png"
+                alt="STARLINKS"
                 width={80}
                 height={30}
                 className="opacity-60 hover:opacity-100 transition-opacity"
