@@ -6,7 +6,7 @@ import { TOKEN } from "@/data/tokenData";
 import { useDict } from "@/i18n/DictContext";
 
 export default function Bitcastle() {
-  const { dict } = useDict();
+  const { dict, locale } = useDict();
 
   return (
     <section className="py-20 lg:py-28 bg-gray-50">
@@ -53,8 +53,16 @@ export default function Bitcastle() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ delay: 0.4, duration: 0.5 }}
-          className="text-center"
+          className="flex flex-col sm:flex-row items-center justify-center gap-3"
         >
+          <a
+            href={TOKEN.announcementUrl[locale]}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-6 py-3 bg-bitcastle-green text-white text-sm font-semibold rounded-lg hover:-translate-y-0.5 hover:shadow-[0_0_20px_rgba(76,175,125,0.25)] transition-all duration-300"
+          >
+            {dict.bitcastle.announcementCta}
+          </a>
           <a
             href={TOKEN.exchangeUrl}
             target="_blank"

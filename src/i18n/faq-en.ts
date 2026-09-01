@@ -67,7 +67,7 @@ export const FAQ_EN: FAQCategory[] = [
       {
         question: "When will WISE list on bitcastle?",
         answer:
-          "WISE is scheduled for listing on bitcastle in late December 2026. The exact date will be announced on the official website.",
+          "WISE is scheduled to list on bitcastle at 11:00 JST on September 30, 2026. The official listing announcement is published on the bitcastle notification page.",
       },
       {
         question: "What is the target listing price?",

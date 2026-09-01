@@ -67,7 +67,7 @@ export const FAQ_JA: FAQCategory[] = [
       {
         question: "WISEはいつbitcastleに上場しますか？",
         answer:
-          "WISEは2026年12月下旬にbitcastleへの上場が予定されています。正確な日程は公式サイトで発表されます。",
+          "WISEは2026年9月30日 11:00（日本時間）にbitcastleへの上場が予定されています。上場の公式告知はbitcastleのお知らせページで公開されています。",
       },
       {
         question: "上場目標価格はいくらですか？",

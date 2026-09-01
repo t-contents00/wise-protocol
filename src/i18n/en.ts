@@ -20,7 +20,7 @@ const en = {
     hours: "HOURS",
     minutes: "MINUTES",
     seconds: "SECONDS",
-    expected: "Expected: Late December 2026",
+    expected: "Scheduled: September 30, 2026, 11:00 JST",
   },
   stats: {
     dailyYield: "Daily Yield (Simple Interest)",
@@ -108,7 +108,7 @@ const en = {
   },
   bitcastle: {
     description:
-      "bitcastle is a global cryptocurrency exchange founded in 2022, serving over 1,000,000 users across 100+ countries. WiseCoin is scheduled for listing on bitcastle, after which WISE can be freely traded by anyone.",
+      "bitcastle is a global cryptocurrency exchange founded in 2022, serving over 1,000,000 users across 100+ countries. WiseCoin is scheduled to list on bitcastle at 11:00 JST on September 30, 2026, after which WISE can be freely traded by anyone.",
     benefits: [
       {
         title: "Liquidity Assured",
@@ -124,6 +124,7 @@ const en = {
       },
     ],
     cta: "Visit bitcastle →",
+    announcementCta: "Official listing announcement →",
   },
   webwise: {
     label: "✦ Operator",

@@ -4,7 +4,8 @@
 - WiseCoin (ERC-20トークン) の公式サイト
 - wise-protocol.xyz で公開予定
 - 運営者: webwise (webwise-sg.com)
-- 上場予定: bitcastle / 2026年12月下旬
+- 上場予定: bitcastle / 2026年9月30日 11:00（JST）
+- 上場告知: 2026年8月19日 11:00（JST）公開 → https://bitcastle.io/ja/notification/1-1071/new-listing-wise
 
 ## 技術スタック
 - Next.js 14 (App Router) + TypeScript + Tailwind CSS
@@ -48,6 +49,12 @@
 - 静的エクスポート: npm run build → out/（trailingSlash: true）
 - FileZillaで /var/www/html/wise-protocol/ にアップロード
 - アップロード後はパーミッション775を再帰的に設定
+
+## ホワイトペーパー（本番公開版）
+- 公開URL: wise-protocol.xyz/module/html/wise-whitepaper_jp/ と _en/（PDF.js viewer）
+- PDF実体: サーバーの /module/pdfs/wise-whitepaper_{jp,en}.pdf（Git管理外・FileZillaでアップロード）
+- 2026-08-17 上場日程を9/30に修正したパッチ版を docs/deploy/ に作成（gitignore済）
+- パッチはオーバーレイ方式のため、旧テキスト(12月下旬)はテキストレイヤーに残存（表示上は見えない）
 
 ## 注意事項
 - サーバーの .htaccess は情シス管理 → 上書き禁止

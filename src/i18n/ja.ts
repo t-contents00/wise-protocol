@@ -22,7 +22,7 @@ const ja: Dictionary = {
     hours: "時間",
     minutes: "分",
     seconds: "秒",
-    expected: "予定：2026年12月下旬",
+    expected: "予定：2026年9月30日 11:00（日本時間）",
   },
   stats: {
     dailyYield: "日利（単利）",
@@ -110,7 +110,7 @@ const ja: Dictionary = {
   },
   bitcastle: {
     description:
-      "bitcastleは2022年設立のグローバル暗号資産取引所で、100カ国以上・累計100万人以上のユーザーにサービスを提供しています。WiseCoinはbitcastleへの上場が予定されており、上場後はWISEを自由に売買できるようになります。",
+      "bitcastleは2022年設立のグローバル暗号資産取引所で、100カ国以上・累計100万人以上のユーザーにサービスを提供しています。WiseCoinは2026年9月30日 11:00（日本時間）にbitcastleへの上場が予定されており、上場後はWISEを自由に売買できるようになります。",
     benefits: [
       {
         title: "流動性確保",
@@ -126,6 +126,7 @@ const ja: Dictionary = {
       },
     ],
     cta: "bitcastleを見る →",
+    announcementCta: "公式の上場告知を見る →",
   },
   webwise: {
     label: "✦ 運営者",

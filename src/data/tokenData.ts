@@ -9,6 +9,11 @@ export const TOKEN = {
   targetListingPrice: 10,
   exchange: "bitcastle",
   exchangeUrl: "https://bitcastle.io/",
+  listingDate: "2026-09-30T11:00:00+09:00",
+  announcementUrl: {
+    ja: "https://bitcastle.io/ja/notification/1-1071/new-listing-wise",
+    en: "https://bitcastle.io/en/notification/1-1071/new-listing-wise",
+  },
   operator: "webwise",
   operatorUrl: "https://webwise-sg.com/",
   currency: "WISE",

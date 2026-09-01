@@ -43,7 +43,7 @@ Key Highlights:
 - Total supply: 8,000,000,000 WISE
 - Sale price: ¥1 per token
 - Target listing price: ¥10 on bitcastle exchange
-- Scheduled listing: Late December 2026
+- Scheduled listing: September 30, 2026, 11:00 JST
 - Operated by webwise (webwise-sg.com), based in Singapore
 
 WiseCoin combines the security of Ethereum-based ERC-20 smart contracts with a straightforward dividend structure, making predictable passive income accessible to both experienced crypto investors and newcomers.
@@ -99,7 +99,7 @@ Token Specifications:
 | Target Listing Price  | ¥10 per token               |
 | Daily Dividend Rate   | 0.3% (Simple Interest)      |
 | Exchange              | bitcastle                   |
-| Expected Listing      | Late December 2026          |
+| Expected Listing      | Sep 30, 2026, 11:00 JST     |
 | Operator              | webwise (webwise-sg.com)    |
 
 3.1 ERC-20 Standard
@@ -208,7 +208,7 @@ bitcastle is a global cryptocurrency exchange founded in 2022, serving over 1,00
 
 6.2 Listing Schedule
 
-WISE is scheduled for listing on bitcastle in late December 2026. The exact date will be announced on the official website.
+WISE is scheduled to list on bitcastle at 11:00 JST on September 30, 2026. The official listing announcement is published on the bitcastle notification page.
 
 6.3 Benefits of Exchange Listing
 
