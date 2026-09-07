@@ -26,8 +26,8 @@ export default function Webwise() {
           </h2>
 
           <Image
-            src="/images/starlinks-logo.png"
-            alt="STARLINKS"
+            src="/images/webwise-logo.png"
+            alt="webwise"
             width={160}
             height={50}
             className="mx-auto mb-8"
