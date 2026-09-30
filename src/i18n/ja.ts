@@ -10,6 +10,7 @@ const ja: Dictionary = {
   hero: {
     eyebrow: "DAILY DIVIDEND REWARDS",
     badge: "✦ ERC-20 TOKEN | Listing on bitcastle",
+    badgeListed: "✦ ERC-20 TOKEN | Listed on bitcastle",
     headline: "Smart Holding.",
     headlineHighlight: "賢く、増やす。",
     description:
@@ -23,6 +24,10 @@ const ja: Dictionary = {
     minutes: "分",
     seconds: "秒",
     expected: "予定：2026年9月30日 11:00（日本時間）",
+    listedLabel: "WISE Listed on bitcastle",
+    listedTitle: "🎉 bitcastleに上場しました",
+    listedNote: "2026年9月30日 11:00（日本時間）上場 — WISE/USDTで取引できます",
+    tradeCta: "今すぐ取引する",
   },
   stats: {
     dailyYield: "日利（単利）",
@@ -68,6 +73,11 @@ const ja: Dictionary = {
           "Ethereum互換のスマートコントラクトで構築。透明性が高く、安全で、オンチェーンで検証可能。",
       },
     ],
+    listedItem: {
+      title: "bitcastle上場済み",
+      description:
+        "bitcastle取引所に上場済み。WISE/USDTペアでいつでも取引できます（目標¥10/WISE）。",
+    },
   },
   tokenomics: {
     label: "✦ トークン配分",
@@ -111,6 +121,9 @@ const ja: Dictionary = {
   bitcastle: {
     description:
       "bitcastleは2022年設立のグローバル暗号資産取引所で、100カ国以上・累計100万人以上のユーザーにサービスを提供しています。WiseCoinは2026年9月30日 11:00（日本時間）にbitcastleへの上場が予定されており、上場後はWISEを自由に売買できるようになります。",
+    descriptionListed:
+      "bitcastleは2022年設立のグローバル暗号資産取引所で、100カ国以上・累計100万人以上のユーザーにサービスを提供しています。WiseCoinは2026年9月30日 11:00（日本時間）にbitcastleへ上場しました。WISE/USDTペアでいつでも自由に売買できます。",
+    tradeCta: "WISE/USDTを取引する →",
     benefits: [
       {
         title: "流動性確保",

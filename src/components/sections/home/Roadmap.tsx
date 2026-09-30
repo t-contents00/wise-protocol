@@ -2,9 +2,12 @@
 
 import { motion } from "framer-motion";
 import { useDict } from "@/i18n/DictContext";
+import { useIsListed } from "@/lib/useIsListed";
 
 export default function Roadmap() {
   const { dict } = useDict();
+  const isListed = useIsListed();
+  const activePhase = isListed ? 3 : 0;
 
   const phaseColors = [
     { border: "border-primary-green/30", bg: "bg-primary-green/[0.05]", text: "text-primary-green", dot: "bg-primary-green border-primary-green shadow-[0_0_12px_rgba(76,175,125,0.6)]", badge: "bg-primary-green/20 text-primary-green", bullet: "bg-primary-green" },
@@ -17,7 +20,7 @@ export default function Roadmap() {
     phase: i + 1,
     title: phase.title,
     items: [...phase.items],
-    active: i === 0,
+    active: i === activePhase,
   }));
 
   return (

@@ -10,6 +10,10 @@ export const TOKEN = {
   exchange: "bitcastle",
   exchangeUrl: "https://bitcastle.io/",
   listingDate: "2026-09-30T11:00:00+09:00",
+  tradeUrl: {
+    ja: "https://bitcastle.io/ja/exchange/WISE_USDT?page=chart",
+    en: "https://bitcastle.io/en/exchange/WISE_USDT?page=chart",
+  },
   announcementUrl: {
     ja: "https://bitcastle.io/ja/notification/1-1071/new-listing-wise",
     en: "https://bitcastle.io/en/notification/1-1071/new-listing-wise",

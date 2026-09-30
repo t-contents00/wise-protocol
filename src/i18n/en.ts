@@ -8,6 +8,7 @@ const en = {
   hero: {
     eyebrow: "DAILY DIVIDEND REWARDS",
     badge: "✦ ERC-20 TOKEN | Listing on bitcastle",
+    badgeListed: "✦ ERC-20 TOKEN | Listed on bitcastle",
     headline: "Smart Holding.",
     headlineHighlight: "Smarter Returns.",
     description:
@@ -21,6 +22,10 @@ const en = {
     minutes: "MINUTES",
     seconds: "SECONDS",
     expected: "Scheduled: September 30, 2026, 11:00 JST",
+    listedLabel: "WISE Listed on bitcastle",
+    listedTitle: "🎉 Now Listed on bitcastle",
+    listedNote: "Listed on September 30, 2026, 11:00 JST — trade WISE/USDT now",
+    tradeCta: "Trade Now",
   },
   stats: {
     dailyYield: "Daily Yield (Simple Interest)",
@@ -66,6 +71,11 @@ const en = {
           "Built on Ethereum-compatible smart contracts. Transparent, secure, and on-chain verifiable.",
       },
     ],
+    listedItem: {
+      title: "Listed on bitcastle",
+      description:
+        "Now listed on bitcastle exchange. Trade the WISE/USDT pair anytime (target ¥10/WISE).",
+    },
   },
   tokenomics: {
     label: "✦ Token Distribution",
@@ -109,6 +119,9 @@ const en = {
   bitcastle: {
     description:
       "bitcastle is a global cryptocurrency exchange founded in 2022, serving over 1,000,000 users across 100+ countries. WiseCoin is scheduled to list on bitcastle at 11:00 JST on September 30, 2026, after which WISE can be freely traded by anyone.",
+    descriptionListed:
+      "bitcastle is a global cryptocurrency exchange founded in 2022, serving over 1,000,000 users across 100+ countries. WiseCoin was listed on bitcastle at 11:00 JST on September 30, 2026. The WISE/USDT pair is now freely tradable by anyone.",
+    tradeCta: "Trade WISE/USDT →",
     benefits: [
       {
         title: "Liquidity Assured",

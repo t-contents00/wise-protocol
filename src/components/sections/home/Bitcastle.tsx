@@ -4,9 +4,11 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 import { TOKEN } from "@/data/tokenData";
 import { useDict } from "@/i18n/DictContext";
+import { useIsListed } from "@/lib/useIsListed";
 
 export default function Bitcastle() {
   const { dict, locale } = useDict();
+  const isListed = useIsListed();
 
   return (
     <section className="py-20 lg:py-28 bg-gray-50">
@@ -26,7 +28,7 @@ export default function Bitcastle() {
             className="mx-auto mb-8"
           />
           <p className="text-gray-600 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed">
-            {dict.bitcastle.description}
+            {isListed ? dict.bitcastle.descriptionListed : dict.bitcastle.description}
           </p>
         </motion.div>
 
@@ -55,6 +57,16 @@ export default function Bitcastle() {
           transition={{ delay: 0.4, duration: 0.5 }}
           className="flex flex-col sm:flex-row items-center justify-center gap-3"
         >
+          {isListed && (
+            <a
+              href={TOKEN.tradeUrl[locale]}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-6 py-3 bg-primary-green text-white text-sm font-semibold rounded-lg hover:-translate-y-0.5 hover:shadow-[0_0_20px_rgba(76,175,125,0.25)] transition-all duration-300"
+            >
+              {dict.bitcastle.tradeCta}
+            </a>
+          )}
           <a
             href={TOKEN.announcementUrl[locale]}
             target="_blank"

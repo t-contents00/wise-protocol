@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import { useDict } from "@/i18n/DictContext";
+import { useIsListed } from "@/lib/useIsListed";
 
 const featureIcons = [
   <svg key="rank" className="w-8 h-8" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
@@ -26,6 +27,10 @@ const featureColors = [
 
 export default function Features() {
   const { dict } = useDict();
+  const isListed = useIsListed();
+  const items = dict.features.items.map((item, i) =>
+    i === 1 && isListed ? { ...item, ...dict.features.listedItem } : item
+  );
 
   return (
     <section className="section-padding">
@@ -46,7 +51,7 @@ export default function Features() {
         </motion.div>
 
         <div className="space-y-4">
-          {dict.features.items.map((feature, i) => (
+          {items.map((feature, i) => (
             <motion.div
               key={i}
               initial={{ opacity: 0, y: 20 }}

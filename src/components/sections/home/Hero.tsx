@@ -6,9 +6,11 @@ import Image from "next/image";
 import { useDict } from "@/i18n/DictContext";
 import { TOKEN } from "@/data/tokenData";
 import Countdown from "./Countdown";
+import { useIsListed } from "@/lib/useIsListed";
 
 export default function Hero() {
   const { dict } = useDict();
+  const isListed = useIsListed();
 
   return (
     <section className="relative min-h-screen flex items-center pt-20">
@@ -84,7 +86,7 @@ export default function Hero() {
                 </div>
               </div>
               <div className="mt-6 pt-4 border-t border-gray-100 text-center">
-                <span className="text-xs text-gray-400">{dict.hero.badge}</span>
+                <span className="text-xs text-gray-400">{isListed ? dict.hero.badgeListed : dict.hero.badge}</span>
               </div>
             </div>
           </motion.div>

@@ -30,7 +30,7 @@ function getTimeLeft(target: Date): TimeLeft {
 }
 
 export default function Countdown({ compact = false }: CountdownProps) {
-  const { dict } = useDict();
+  const { dict, locale } = useDict();
   const targetDate = new Date(
     process.env.NEXT_PUBLIC_LISTING_DATE || TOKEN.listingDate
   );
@@ -86,6 +86,40 @@ export default function Countdown({ compact = false }: CountdownProps) {
             </div>
           ))}
         </div>
+      </div>
+    );
+  }
+
+  const isListed = new Date().getTime() >= targetDate.getTime();
+
+  if (isListed) {
+    return (
+      <div className="text-center">
+        <p className="text-gray-400 text-xs tracking-[0.2em] uppercase mb-3">
+          {dict.countdown.listedLabel}
+        </p>
+        <div
+          className={`inline-block rounded-xl bg-[rgba(76,175,125,0.08)] border border-[rgba(76,175,125,0.3)] ${
+            compact ? "px-5 py-4" : "px-8 py-6"
+          }`}
+        >
+          <div
+            className={`font-display font-bold text-gray-900 ${
+              compact ? "text-lg" : "text-2xl sm:text-3xl"
+            }`}
+          >
+            {dict.countdown.listedTitle}
+          </div>
+          <a
+            href={TOKEN.tradeUrl[locale]}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-4 inline-flex items-center justify-center px-8 py-3 bg-primary-green text-white font-semibold text-sm rounded-xl hover:-translate-y-0.5 hover:shadow-lg hover:shadow-primary-green/20 transition-all duration-300"
+          >
+            {dict.countdown.tradeCta}
+          </a>
+        </div>
+        <p className="text-gray-400 text-xs mt-3">{dict.countdown.listedNote}</p>
       </div>
     );
   }
